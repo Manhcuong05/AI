@@ -1,0 +1,1158 @@
+comment,label,processed_comment
+"Sản phẩm rất tốt, mình thích lắm!",positive,sản_phẩm rất tốt mình thích lắm
+"Dịch vụ quá tệ, không bao giờ mua lại.",negative,dịch_vụ quá tệ không bao_giờ mua lại
+"Giao hàng nhanh, nhưng chưa sử dụng nên chưa biết chất lượng.",neutral,giao hàng nhanh nhưng chưa sử_dụng nên chưa biết chất_lượng
+"Mỹ phẩm này dùng thích ghê, sẽ ủng hộ tiếp!",positive,mỹ_phẩm dùng thích ghê sẽ ủng_hộ tiếp
+"Giao hàng lâu quá, làm ăn kiểu gì vậy?",negative,giao hàng lâu quá làm_ăn kiểu gì vậy
+"Chưa thử nhưng thấy nhiều người khen, chắc cũng ổn.",neutral,chưa thử nhưng thấy nhiều người khen chắc ổn
+"Clip này đỉnh thật, xem xong muốn share liền!",positive,clip đỉnh thật xem xong muốn share liền
+"Video này đỉnh thật, xem xong muốn tua lại luôn!",positive,video đỉnh thật xem xong muốn tua lại luôn
+"Dịch vụ tệ quá, không bao giờ quay lại nữa.",negative,dịch_vụ tệ quá không bao_giờ quay lại nữa
+"Clip này ổn, nhưng chưa xem hết nên chưa rõ.",neutral,clip ổn nhưng chưa xem hết nên chưa rõ
+"Nhạc hay vãi, nghe cả ngày không chán!",positive,nhạc hay vãi nghe cả ngày không chán
+"Giao hàng chậm như rùa, chán ghê!",negative,giao hàng chậm như rùa chán ghê
+"Game này nghe nói hay, để tải thử xem sao.",neutral,game nghe nói hay để tải thử xem sao
+"Nội dung chất lượng, đáng để subscribe!",positive,nội_dung chất_lượng đáng để subscribe
+"Phim dở ẹc, phí thời gian xem.",negative,phim dở ẹc_phí thời_gian xem
+"Bài viết dài quá, đọc xong hơi mệt.",neutral,bài viết dài quá đọc xong hơi mệt
+"App này xịn thật, dùng thích lắm!",positive,app xịn thật dùng thích lắm
+"Hàng lỗi tùm lum, mua về tức điên!",negative,hàng lỗi tùm_lum mua về tức điên
+"Chưa dùng nên không biết, để test thử.",neutral,chưa dùng nên không biết để test thử
+"Clip hài quá, cười đau cả bụng!",positive,clip hài quá cười đau cả bụng
+"Âm thanh tệ quá, nghe mà nhức đầu.",negative,âm_thanh tệ quá nghe mà nhức đầu
+"Sản phẩm này cũng được, không tệ lắm.",neutral,sản_phẩm không tệ lắm
+"Video đỉnh cao, không skip giây nào!",positive,video đỉnh_cao không skip_giây nào
+"Dịch vụ lừa đảo, mọi người tránh xa nhé!",negative,dịch_vụ lừa_đảo mọi người tránh xa nhé
+"Nghe đồn phim hay, để cuối tuần xem.",neutral,nghe đồn phim hay để cuối tuần xem
+"Game này tuyệt vời, chơi hoài không chán!",positive,game tuyệt_vời chơi hoài không chán
+"Giao hàng lâu quá, làm ăn kiểu gì vậy?",negative,giao hàng lâu quá làm_ăn kiểu gì vậy
+"Nội dung bình thường, không có gì đặc biệt.",neutral,nội_dung bình_thường không gì đặc_biệt
+"Mỹ phẩm xài thích ghê, sẽ mua tiếp!",positive,mỹ_phẩm xài thích ghê sẽ mua tiếp
+"Hàng fake, đừng ai mua kẻo tiếc!",negative,hàng fake đừng ai mua kẻo tiếc
+"Chưa thử nhưng thấy review ổn, để xem.",neutral,chưa thử nhưng thấy review ổn để xem
+"Clip này bá cháy, xem là mê liền!",positive,clip bá cháy xem mê liền
+"Nhạc dở kinh khủng, tắt ngay lập tức.",negative,nhạc dở_kinh khủng_tắt ngay_lập_tức
+"Phim này dài, chưa biết hay dở ra sao.",neutral,phim dài chưa biết hay dở ra sao
+"Sản phẩm tốt quá, 5 sao luôn!",positive,sản_phẩm tốt quá 5 sao luôn
+"Dịch vụ chán đời, không đáng 1 xu.",negative,dịch_vụ chán_đời không đáng 1 xu
+"Game này tạm ổn, chơi được vài tiếng.",neutral,game tạm ổn chơi vài tiếng
+"Video hay cực, up thêm đi nhé!",positive,video hay cực up thêm đi nhé
+"Hàng giao trễ, thái độ nhân viên tệ nữa.",negative,hàng giao_trễ thái_độ nhân_viên tệ nữa
+"Chưa xem hết, nhưng thấy cũng bình thường.",neutral,chưa xem hết nhưng thấy bình_thường
+"Nhạc chill quá, nghe thư giãn ghê!",positive,nhạc chill quá nghe thư_giãn ghê
+"App lỗi liên tục, xóa luôn cho rồi.",negative,app lỗi liên_tục xóa luôn cho_rồi
+"Clip này nghe nói viral, để check thử.",neutral,clip nghe nói viral để check thử
+"Phim này đỉnh của chóp, xem đi không tiếc!",positive,phim đỉnh chóp xem đi không tiếc
+"Giao hàng như rùa bò, bực cả người.",negative,giao hàng như rùa bò bực_cả người
+"Sản phẩm này cũng được, không quá tệ.",neutral,sản_phẩm không quá tệ
+"Nội dung sáng tạo, thích cách làm clip!",positive,nội_dung sáng_tạo thích cách làm clip
+"Game lag kinh khủng, chơi không nổi.",negative,game lag kinh_khủng_chơi không nổi
+"Chưa dùng nên không rõ, để thử đã.",neutral,chưa dùng nên không rõ để thử
+"Video này xứng đáng triệu view, quá hay!",positive,video xứng_đáng triệu view quá hay
+"Hàng kém chất lượng, tiền mất tật mang.",negative,hàng kém chất_lượng tiền_mất_tật_mang
+"Nhạc này bình thường, nghe tạm được.",neutral,nhạc bình_thường nghe tạm
+"Clip dạy hay lắm, học được nhiều thứ!",positive,clip dạy hay lắm học nhiều thứ
+"Dịch vụ quá tệ, không đáng để thử.",negative,dịch_vụ quá tệ không đáng để thử
+"Phim này dài quá, chưa biết có hay không.",neutral,phim dài quá chưa biết hay không
+"Game này đỉnh thật, chơi mê mẩn luôn!",positive,game đỉnh thật chơi mê_mẩn luôn
+"Giao hàng chậm, thái độ hỗ trợ cũng tệ.",negative,giao hàng chậm thái_độ hỗ_trợ tệ
+"Clip này đỉnh thật, xem xong muốn share liền!",positive,clip đỉnh thật xem xong muốn share liền
+"Dịch vụ tệ hại, không đáng 1 sao!",negative,dịch_vụ tệ_hại không đáng 1 sao
+"Game này nghe nói hay, để tải về thử.",neutral,game nghe nói hay để tải về thử
+"Nhạc chill quá, nghe là mê luôn!",positive,nhạc chill quá nghe mê luôn
+"Giao hàng chậm như rùa, bực mình ghê!",negative,giao hàng chậm như rùa bực_mình ghê
+"Video này cũng được, không quá đặc biệt.",neutral,video không quá đặc_biệt
+"Phim hay vãi, xem xong cảm động muốn khóc!",positive,phim hay vãi xem xong cảm_động muốn khóc
+"Hàng lỗi tùm lum, mua về tức điên!",negative,hàng lỗi tùm_lum mua về tức điên
+"Chưa xem hết clip, nhưng thấy ổn.",neutral,chưa xem hết clip nhưng thấy ổn
+"App này xịn quá, dùng thích mê!",positive,app xịn quá dùng thích mê
+"Nhạc dở kinh khủng, nghe 5 giây là tắt!",negative,nhạc dở_kinh_khủng nghe 5 giây tắt
+"Sản phẩm này bình thường, chưa biết tốt không.",neutral,sản_phẩm bình_thường chưa biết tốt không
+"Video hài quá, cười xỉu luôn!",positive,video hài quá cười xỉu luôn
+"Dịch vụ lừa đảo, mọi người cẩn thận nhé!",negative,dịch_vụ lừa_đảo mọi người cẩn_thận nhé
+"Phim này dài, để cuối tuần xem thử.",neutral,phim dài để cuối tuần xem thử
+"Game đỉnh cao, chơi cả ngày không chán!",positive,game đỉnh_cao chơi cả ngày không chán
+"Giao hàng trễ, thái độ nhân viên còn tệ hơn!",negative,giao hàng trễ thái_độ nhân_viên còn tệ hơn
+"Clip này tạm được, xem giải trí thôi.",neutral,clip tạm xem giải_trí thôi
+"Mỹ phẩm xài thích ghê, sẽ ủng hộ tiếp!",positive,mỹ_phẩm xài thích ghê sẽ ủng_hộ tiếp
+"Hàng fake, đừng ai mua kẻo tiếc!",negative,hàng fake đừng ai mua kẻo tiếc
+"Chưa thử app này, nghe nói cũng ổn.",neutral,chưa thử app nghe nói ổn
+"Video này bá cháy, up thêm đi nhé!",positive,video bá cháy up thêm đi nhé
+"Nhạc chán đời, không hiểu sao nổi tiếng.",negative,nhạc chán_đời không hiểu sao nổi_tiếng
+"Game này hơi khó, chưa biết có thích không.",neutral,game hơi khó chưa biết thích không
+"Clip dạy hay quá, học được nhiều thứ!",positive,clip dạy hay quá học nhiều thứ
+"Dịch vụ quá tệ, phí tiền phí công!",negative,dịch_vụ quá tệ_phí tiền phí công
+"Phim này nghe đồn hay, để xem sao.",neutral,phim nghe đồn hay để xem sao
+"Sản phẩm tốt thật, 5 sao không tiếc!",positive,sản_phẩm tốt thật 5 sao không tiếc
+"Giao hàng lâu, làm ăn kiểu gì vậy?",negative,giao hàng lâu làm_ăn kiểu gì vậy
+"Nội dung clip bình thường, không ấn tượng lắm.",neutral,nội_dung clip bình_thường không ấn_tượng lắm
+"Video đỉnh của chóp, xem là ghiền!",positive,video đỉnh chóp xem ghiền
+"App lỗi liên tục, xóa luôn cho xong!",negative,app lỗi liên_tục xóa luôn cho_xong
+"Chưa dùng sản phẩm, để test thử đã.",neutral,chưa dùng sản_phẩm để test thử
+"Nhạc hay cực, nghe hoài không chán!",positive,nhạc hay cực nghe hoài không chán
+"Hàng kém chất lượng, tiền mất tật mang!",negative,hàng kém chất_lượng tiền_mất_tật_mang
+"Clip này cũng ổn, xem tạm được.",neutral,clip ổn xem tạm
+"Game này tuyệt vời, chơi mê mẩn luôn!",positive,game tuyệt_vời chơi mê_mẩn luôn
+"Dịch vụ chán òm, không bao giờ quay lại!",negative,dịch_vụ chán_òm không bao_giờ quay lại
+"Phim này dài quá, chưa biết hay dở.",neutral,phim dài quá chưa biết hay dở
+"Video sáng tạo ghê, thích cách làm clip!",positive,video sáng_tạo ghê_thích cách làm clip
+"Giao hàng chậm, thái độ hỗ trợ cũng tệ!",negative,giao hàng chậm thái_độ hỗ_trợ tệ
+"Sản phẩm này nghe nói tốt, để thử xem.",neutral,sản_phẩm nghe nói tốt để thử xem
+"Clip này xứng đáng triệu view, quá chất!",positive,clip xứng_đáng triệu view quá chất
+"Nhạc dở ẹc, phí thời gian nghe!",negative,nhạc dở ẹc_phí thời_gian nghe
+"Game này bình thường, chơi được vài ván.",neutral,game bình_thường chơi vài ván
+"Video dạy đỉnh quá, up thêm nhiều nữa nhé!",positive,video dạy đỉnh quá up thêm nhiều nữa nhé
+"Hàng giao trễ, chất lượng còn tệ hơn!",negative,hàng giao_trễ chất_lượng còn tệ hơn
+"Chưa xem hết phim, nhưng thấy cũng được.",neutral,chưa xem hết phim nhưng thấy
+"App này xài thích thật, recommend mọi người!",positive,app xài thích thật recommend mọi người
+"Dịch vụ thất vọng, không đáng để thử!",negative,dịch_vụ thất_vọng không đáng để thử
+"Clip này nghe nói viral, để check thử.",neutral,clip nghe nói viral để check thử
+"Nhạc chill vãi, nghe là thư giãn liền!",positive,nhạc chill_vãi nghe thư_giãn liền
+"Game lag kinh khủng, chơi không nổi!",negative,game lag kinh_khủng_chơi không nổi
+"Sản phẩm này tạm ổn, chưa có gì nổi bật.",neutral,sản_phẩm tạm ổn chưa gì nổi_bật
+"Video hài hước ghê, xem cười đau bụng!",positive,video hài_hước ghê xem cười đau bụng
+"Hàng giao chậm, còn bị móp nữa!",negative,hàng giao chậm còn móp nữa
+"Phim này dài, chưa biết có hay không.",neutral,phim dài chưa biết hay không
+"Game đỉnh thật, chơi là mê luôn!",positive,game đỉnh thật chơi mê luôn
+"Dịch vụ tệ quá, không hiểu sao còn tồn tại!",negative,dịch_vụ tệ quá không hiểu sao còn tồn_tại
+"Clip này bình thường, xem cho vui thôi.",neutral,clip bình_thường xem vui thôi
+"Nhạc hay quá, thêm vào playlist ngay!",positive,nhạc hay quá thêm vào playlist ngay
+"App này lỗi hoài, xài bực cả người!",negative,app lỗi hoài_xài bực_cả người
+"Chưa thử sản phẩm, nghe review cũng ổn.",neutral,chưa thử sản_phẩm nghe review ổn
+"Video này đỉnh cao, không thể bỏ lỡ!",positive,video đỉnh_cao không_thể bỏ lỡ
+"Giao hàng lâu, thái độ nhân viên kém!",negative,giao hàng lâu thái_độ nhân_viên kém
+"Game này nghe nói hay, để chơi thử.",neutral,game nghe nói hay để chơi thử
+"Phim cảm động ghê, xem xong khóc luôn!",positive,phim cảm_động ghê xem xong khóc luôn
+"Hàng dởm, đừng ai mua kẻo hối hận!",negative,hàng dởm đừng ai mua kẻo hối_hận
+"Clip này cũng được, không quá tệ.",neutral,clip không quá tệ
+"App xịn quá, dùng thích mê ly!",positive,app xịn quá dùng thích mê_ly
+"Nhạc chán òm, nghe phát là tắt!",negative,nhạc chán_òm nghe phát tắt
+"Sản phẩm này bình thường, chưa rõ chất lượng.",neutral,sản_phẩm bình_thường chưa rõ chất_lượng
+"Video hài quá, xem cười sảng khoái!",positive,video hài quá xem cười sảng_khoái
+"Dịch vụ lừa đảo, cạch mặt luôn!",negative,dịch_vụ lừa_đảo cạch mặt luôn
+"Phim này dài quá, để xem từ từ.",neutral,phim dài quá để xem từ_từ
+"Game đỉnh của chóp, chơi hoài không chán!",positive,game đỉnh chóp chơi hoài không chán
+"Giao hàng chậm, hàng còn hỏng nữa!",negative,giao hàng chậm hàng còn hỏng nữa
+"Clip này tạm ổn, xem giải trí được.",neutral,clip tạm ổn xem giải_trí
+"Mỹ phẩm tốt ghê, sẽ mua thêm!",positive,mỹ_phẩm tốt ghê sẽ mua thêm
+"Hàng kém chất lượng, phí tiền thật!",negative,hàng kém chất_lượng phí tiền thật
+"Chưa xem hết video, nhưng thấy cũng ổn.",neutral,chưa xem hết video nhưng thấy ổn
+"Nhạc hay vãi, nghe là ghiền luôn!",positive,nhạc hay vãi nghe ghiền luôn
+"App này tệ quá, xóa ngay lập tức!",negative,app tệ quá xóa ngay_lập_tức
+"Game này nghe đồn hay, để thử xem.",neutral,game nghe đồn hay để thử xem
+"Video đỉnh thật, up thêm nhiều nhé!",positive,video đỉnh thật up thêm nhiều nhé
+"Dịch vụ chán đời, không đáng 1 xu!",negative,dịch_vụ chán_đời không đáng 1 xu
+"Phim này bình thường, chưa có gì đặc biệt.",neutral,phim bình_thường chưa gì đặc_biệt
+"Sản phẩm xịn quá, 5 sao luôn!",positive,sản_phẩm xịn quá 5 sao luôn
+"Giao hàng lâu, thái độ hỗ trợ tệ!",negative,giao hàng lâu thái_độ hỗ_trợ tệ
+"Clip này cũng được, xem tạm thôi.",neutral,clip xem tạm thôi
+"Nhạc chill cực, nghe thư giãn ghê!",positive,nhạc chill_cực nghe thư_giãn ghê
+"Game lag quá, chơi bực cả người!",negative,game lag quá chơi bực_cả người
+"Sản phẩm này ổn, chưa biết lâu dài sao.",neutral,sản_phẩm ổn chưa biết lâu_dài sao
+"Video hài hước ghê, cười muốn xỉu!",positive,video hài_hước ghê_cười muốn xỉu
+"Hàng giao chậm, chất lượng còn tệ!",negative,hàng giao chậm chất_lượng còn tệ
+"Phim này nghe nói hay, để xem thử.",neutral,phim nghe nói hay để xem thử
+"Game đỉnh cao, chơi là mê mẩn!",positive,game đỉnh_cao_chơi mê mẩn
+"Dịch vụ thất vọng, không bao giờ quay lại!",negative,dịch_vụ thất_vọng không bao_giờ quay lại
+"Clip này bình thường, không ấn tượng lắm.",neutral,clip bình_thường không ấn_tượng lắm
+"Nhạc hay quá, nghe hoài không chán!",positive,nhạc hay quá nghe hoài không chán
+"Video này xuất sắc, không thể rời mắt được!",positive,video xuất_sắc không_thể rời mắt
+"Dịch vụ quá chán, lần sau né ngay!",negative,dịch_vụ quá chán lần sau né ngay
+"Game này mới ra, chưa biết có đáng chơi không.",neutral,game mới ra chưa biết đáng chơi không
+"Nhạc cuốn quá, nghe một lần là nhớ mãi!",positive,nhạc cuốn quá nghe một lần nhớ mãi
+"Giao hàng trễ kinh khủng, thất vọng toàn tập!",negative,giao hàng trễ kinh_khủng thất_vọng toàn_tập
+"Clip này thú vị đấy, nhưng chưa đủ ấn tượng.",neutral,clip thú_vị đấy nhưng chưa đủ ấn_tượng
+"Phim cảm xúc ghê, xem xong rưng rưng!",positive,phim cảm_xúc ghê xem xong rưng_rưng
+"Hàng vừa xấu vừa đắt, mua xong tiếc đứt ruột!",negative,hàng vừa xấu vừa đắt mua xong tiếc đứt ruột
+"Sản phẩm nghe bảo tốt, để dùng thử xem sao.",neutral,sản_phẩm nghe bảo tốt để dùng thử xem sao
+"App này mượt mà, xài sướng cả tay!",positive,app mượt_mà xài sướng cả tay
+"Nhạc gì mà chán thế, nghe buồn ngủ luôn!",negative,nhạc gì mà chán_thế nghe buồn_ngủ luôn
+"Video này dài dòng, chưa rõ hay dở ra sao.",neutral,video dài dòng chưa rõ hay dở ra sao
+"Clip phản ánh đúng thực tế, vỗ tay nhiệt liệt!",positive,clip phản_ánh đúng thực_tế vỗ_tay nhiệt_liệt
+"Dịch vụ hỗ trợ như hạch, lần cuối hợp tác!",negative,dịch_vụ hỗ_trợ như hạch lần cuối hợp_tác
+"Game này hình đẹp, để trải nghiệm thử.",neutral,game hình_đẹp để trải_nghiệm thử
+"Phim đỉnh thật sự, kịch bản quá xuất sắc!",positive,phim đỉnh thật_sự kịch_bản quá xuất_sắc
+"Hàng giao sai, còn cãi khách nữa chứ!",negative,hàng giao sai còn cãi khách nữa chứ
+"Nhạc này nghe tạm, không có gì đặc sắc.",neutral,nhạc nghe tạm không gì đặc_sắc
+"Video sáng tạo đỉnh cao, không thể chê!",positive,video sáng_tạo đỉnh_cao không_thể chê
+"App toàn bug, xài mà muốn đập máy!",negative,app toàn bug_xài mà muốn đập máy
+"Sản phẩm này mới mua, chưa rõ bền không.",neutral,sản_phẩm mới mua chưa rõ bền không
+"Clip kể chuyện cuốn, xem xong muốn nghe tiếp!",positive,clip kể chuyện cuốn xem xong muốn nghe tiếp
+"Giao hàng chậm chạp, thái độ còn lồi lõm!",negative,giao hàng chậm_chạp thái_độ còn lồi lõm
+"Phim này được khen nhiều, để xem có đúng không.",neutral,phim khen nhiều để xem đúng không
+"Game đồ họa đẹp, chơi sướng mắt ghê!",positive,game đồ họa đẹp chơi sướng mắt ghê
+"Dịch vụ quá kém, quảng cáo thì hay ho!",negative,dịch_vụ quá kém quảng_cáo thì hay ho
+"Video này hơi nhàm, xem một lúc là chán.",neutral,video hơi nhàm xem một lúc chán
+"Nhạc remix đỉnh cao, nghe muốn nhún nhảy!",positive,nhạc remix đỉnh_cao nghe muốn nhún_nhảy
+"Hàng mua về hỏng luôn, shop làm ăn chán!",negative,hàng mua về hỏng luôn shop làm_ăn chán
+"App này mới tải, chưa biết có ổn không.",neutral,app mới tải chưa biết ổn không
+"Clip truyền cảm hứng ghê, xem xong có động lực!",positive,clip truyền cảm_hứng ghê xem xong động_lực
+"Phim gì mà nhạt nhẽo, bỏ dở giữa chừng!",negative,phim gì mà nhạt_nhẽo bỏ_dở giữa chừng
+"Sản phẩm này giá rẻ, để thử xem chất lượng.",neutral,sản_phẩm giá rẻ để thử xem chất_lượng
+"Game này kịch tính, chơi mà tim đập thình thịch!",positive,game kịch tính_chơi mà tim đập thình_thịch
+"Dịch vụ chăm sóc khách hàng tệ, không tôn trọng!",negative,dịch_vụ chăm_sóc khách_hàng tệ không tôn_trọng
+"Nhạc này nghe lạ, chưa biết có hợp gu không.",neutral,nhạc nghe lạ chưa biết hợp_gu không
+"Video dựng đẹp mắt, nội dung sâu sắc!",positive,video dựng đẹp_mắt nội_dung sâu_sắc
+"Hàng giao thiếu phụ kiện, shop giải thích vòng vo!",negative,hàng giao thiếu phụ_kiện shop giải_thích vòng vo
+"Clip này ngắn gọn, xem thử thấy cũng ổn.",neutral,clip ngắn_gọn xem thử thấy ổn
+"App thiết kế đẹp, dùng tiện lợi ghê!",positive,app thiết_kế đẹp dùng tiện_lợi ghê
+"Phim dở tệ, phí thời gian xem luôn!",negative,phim dở tệ_phí thời_gian xem luôn
+"Game này nghe bạn bè khen, để chơi thử.",neutral,game nghe bạn_bè khen để chơi thử
+"Nhạc live đỉnh quá, nổi da gà luôn!",positive,nhạc live_đỉnh quá nổi da_gà luôn
+"Giao hàng lâu lắc, còn giao nhầm địa chỉ!",negative,giao hàng lâu_lắc còn giao nhầm địa_chỉ
+"Video này nội dung lạ, chưa biết có hay không.",neutral,video nội_dung lạ chưa biết hay không
+"Sản phẩm vượt mong đợi, đáng tiền ghê!",positive,sản_phẩm vượt mong_đợi đáng tiền ghê
+"Dịch vụ hỗ trợ khách như trò đùa, bực mình!",negative,dịch_vụ hỗ_trợ khách như trò_đùa bực_mình
+"Phim này hơi buồn, xem thử cho biết.",neutral,phim hơi buồn xem thử biết
+"Clip kể chuyện cười ra nước mắt, quá đỉnh!",positive,clip kể chuyện cười_ra_nước_mắt quá đỉnh
+"Hàng rẻ mà chất lượng rẻ mạt, thất vọng!",negative,hàng rẻ mà chất_lượng rẻ_mạt thất_vọng
+"App này mới update, để xem có gì mới.",neutral,app mới update để xem gì mới
+"Game này căng thẳng, chơi mà hồi hộp ghê!",positive,game căng_thẳng chơi mà hồi_hộp ghê
+"Nhạc gì mà lạc hậu thế, nghe phát chán!",negative,nhạc gì mà lạc_hậu thế nghe phát chán
+"Video này hình ảnh đẹp, chưa rõ nội dung sao.",neutral,video hình_ảnh đẹp chưa rõ nội_dung sao
+"Phim này kịch bản hay, diễn viên đỉnh nữa!",positive,phim kịch_bản hay diễn_viên đỉnh nữa
+"Dịch vụ giao hàng lề mề, không chuyên nghiệp!",negative,dịch_vụ giao hàng lề_mề không chuyên_nghiệp
+"Sản phẩm này giá cao, để cân nhắc đã.",neutral,sản_phẩm giá cao để cân_nhắc
+"Clip phân tích sâu sắc, học hỏi được nhiều!",positive,clip phân_tích sâu_sắc học_hỏi nhiều
+"Hàng giao trầy xước, shop không chịu đổi!",negative,hàng giao trầy_xước shop không chịu đổi
+"Game này mới ra mắt, chưa biết có hot không.",neutral,game mới ra_mắt chưa biết hot không
+"Nhạc acoustic nhẹ nhàng, nghe relax ghê!",positive,nhạc acoustic nhẹ_nhàng nghe relax ghê
+"App crash liên tục, xài mà phát cáu!",negative,app crash liên_tục xài mà phát cáu
+"Video này ngắn, xem thử thấy cũng được.",neutral,video ngắn xem thử thấy
+"Phim hành động đỉnh cao, xem mãn nhãn!",positive,phim hành_động đỉnh_cao xem mãn nhãn
+"Dịch vụ quảng cáo thì ngon, thực tế thì tệ!",negative,dịch_vụ quảng_cáo thì ngon thực_tế thì tệ
+"Sản phẩm này bạn recommend, để thử xem.",neutral,sản_phẩm bạn recommend để thử xem
+"Clip này ý nghĩa, xem xong suy ngẫm ghê!",positive,clip ý_nghĩa xem xong suy_ngẫm ghê
+"Hàng giao lâu, mở ra còn hỏng nữa!",negative,hàng giao_lâu mở ra còn hỏng nữa
+"Nhạc này lạ tai, chưa biết có thích không.",neutral,nhạc lạ_tai chưa biết thích không
+"Game chiến thuật hay, chơi phát ghiền!",positive,game chiến_thuật hay chơi phát ghiền
+"Dịch vụ quá tệ, không xứng với giá tiền!",negative,dịch_vụ quá tệ không xứng giá tiền
+"Video này nội dung đơn giản, xem cho vui.",neutral,video nội_dung đơn_giản xem vui
+"Phim này cảm động, khóc hết nước mắt!",positive,phim cảm_động khóc hết nước_mắt
+"Hàng gì mà lởm thế, mua về vứt luôn!",negative,hàng gì mà lởm_thế mua về vứt luôn
+"App này mới cài, chưa rõ có tốt không.",neutral,app mới cài chưa rõ tốt không
+"Clip reaction hài hước, xem cười nghiêng ngả!",positive,clip reaction hài_hước xem cười nghiêng_ngả
+"Giao hàng chậm, nhân viên còn hỗn láo!",negative,giao hàng chậm nhân_viên còn hỗn_láo
+"Game này đồ họa đẹp, để trải nghiệm thử.",neutral,game đồ họa đẹp để trải_nghiệm thử
+"Nhạc EDM bùng nổ, nghe là muốn quẩy!",positive,nhạc edm bùng_nổ nghe muốn quẩy
+"Dịch vụ chăm sóc khách hàng kém, cạch mặt!",negative,dịch_vụ chăm_sóc khách_hàng kém_cạch mặt
+"Phim này dài tập, chưa biết có hay không.",neutral,phim dài_tập chưa biết hay không
+"Video này sáng tạo, xem mà trầm trồ!",positive,video sáng_tạo xem mà trầm_trồ
+"Hàng giao sai màu, shop không chịu trách nhiệm!",negative,hàng giao sai màu shop không chịu trách_nhiệm
+"Sản phẩm này rẻ, để mua thử xem sao.",neutral,sản_phẩm rẻ để mua thử xem sao
+"Game nhập vai đỉnh, chơi quên cả thời gian!",positive,game nhập_vai đỉnh chơi quên cả thời_gian
+"Nhạc gì mà chán ngắt, nghe phát buồn ngủ!",negative,nhạc gì mà chán_ngắt nghe phát buồn ngủ
+"Clip này nội dung lạ, xem thử cho biết.",neutral,clip nội_dung lạ xem thử biết
+"Phim này plot twist hay, xem xong bất ngờ!",positive,phim plot twist hay xem xong bất_ngờ
+"Dịch vụ giao hàng tệ, không đúng hẹn!",negative,dịch_vụ giao hàng tệ không đúng hẹn
+"App này nghe nói tiện, để dùng thử.",neutral,app nghe nói_tiện để dùng thử
+"Video du lịch đẹp mê, xem muốn xách ba lô lên!",positive,video du_lịch đẹp_mê xem muốn xách ba lô lên
+"Hàng kém bền, dùng vài ngày là hỏng!",negative,hàng kém bền dùng vài ngày hỏng
+"Nhạc này bình thường, chưa thấy gì nổi bật.",neutral,nhạc bình_thường chưa thấy gì nổi_bật
+"Game này hấp dẫn, chơi mà không dứt ra được!",positive,game hấp_dẫn chơi mà không dứt ra
+"Dịch vụ hỗ trợ chậm chạp, thái độ kém!",negative,dịch_vụ hỗ_trợ chậm_chạp thái_độ kém
+"Phim này bạn khen, để xem có đúng không.",neutral,phim bạn khen để xem đúng không
+"Clip này dựng đẹp, nội dung cuốn hút!",positive,clip dựng đẹp nội_dung cuốn_hút
+"Hàng giao trễ, còn bị bể nữa chứ!",negative,hàng giao_trễ còn bể nữa chứ
+"Sản phẩm này giá ổn, chưa biết chất lượng.",neutral,sản_phẩm giá ổn chưa biết chất_lượng
+"Nhạc ballad sâu lắng, nghe mà thấm!",positive,nhạc ballad sâu lắng_nghe mà thấm
+"Video này chất lượng, xem mà đã mắt ghê!",positive,video chất_lượng xem mà mắt ghê
+"Dịch vụ quá tệ, liên hệ hỗ trợ không ai trả lời!",negative,dịch_vụ quá tệ liên_hệ hỗ_trợ không ai trả_lời
+"Game này mới cập nhật, chưa biết có gì hot.",neutral,game mới cập_nhật chưa biết gì hot
+"Nhạc đỉnh cao, nghe xong muốn loop lại!",positive,nhạc đỉnh_cao nghe xong muốn loop lại
+"Giao hàng lâu lắc, mở ra còn thiếu đồ!",negative,giao hàng lâu_lắc mở ra còn thiếu đồ
+"Clip này nội dung đơn giản, xem tạm ổn.",neutral,clip nội_dung đơn_giản xem tạm ổn
+"Phim này kịch tính, xem mà hồi hộp luôn!",positive,phim kịch tính xem mà hồi_hộp luôn
+"Hàng gì mà đắt cắt cổ, chất lượng thì tệ!",negative,hàng gì mà đắt cắt_cổ chất_lượng thì tệ
+"Sản phẩm này nghe bạn bè khen, để thử xem.",neutral,sản_phẩm nghe bạn_bè khen để thử xem
+"App này tiện lợi, dùng một lần là thích!",positive,app tiện_lợi dùng một lần thích
+"Nhạc dở không chịu nổi, tắt ngay từ đầu!",negative,nhạc dở không chịu nổi tắt ngay từ đầu
+"Video này hơi dài, chưa biết có đáng xem không.",neutral,video hơi dài chưa biết đáng xem không
+"Clip dạy nấu ăn hay, làm theo thành công luôn!",positive,clip dạy nấu_ăn hay làm theo thành_công luôn
+"Dịch vụ giao hàng chán, toàn giao trễ!",negative,dịch_vụ giao hàng chán toàn giao trễ
+"Game này hình ảnh đẹp, để chơi thử xem sao.",neutral,game hình_ảnh đẹp để chơi thử xem sao
+"Phim này ý nghĩa, xem xong suy nghĩ nhiều!",positive,phim ý_nghĩa xem xong suy_nghĩ nhiều
+"Hàng giao sai kích cỡ, shop không giải quyết!",negative,hàng giao sai_kích_cỡ shop không giải_quyết
+"Nhạc này nghe được, nhưng không quá đặc biệt.",neutral,nhạc nghe nhưng không quá đặc_biệt
+"Video dựng chuyên nghiệp, nội dung cuốn hút!",positive,video dựng chuyên_nghiệp nội_dung cuốn_hút
+"App này chậm chạp, dùng mà phát bực!",negative,app chậm_chạp dùng mà phát bực
+"Sản phẩm này mới ra, chưa rõ chất lượng thế nào.",neutral,sản_phẩm mới ra chưa rõ chất_lượng thế_nào
+"Clip này truyền năng lượng tích cực, thích ghê!",positive,clip truyền năng_lượng tích_cực thích ghê
+"Giao hàng trễ, hàng còn bị móp méo!",negative,giao hàng trễ hàng còn móp méo
+"Phim này nghe nói buồn, để xem thử.",neutral,phim nghe nói buồn để xem thử
+"Game này chiến thuật đỉnh, chơi cực kỳ cuốn!",positive,game chiến_thuật đỉnh chơi cực_kỳ cuốn
+"Dịch vụ hỗ trợ khách hàng kém, không nhiệt tình!",negative,dịch_vụ hỗ_trợ khách_hàng kém không nhiệt_tình
+"Video này ngắn gọn, xem cho vui thôi.",neutral,video ngắn_gọn xem vui thôi
+"Nhạc acoustic mượt mà, nghe muốn tan chảy!",positive,nhạc acoustic_mượt mà nghe muốn tan chảy
+"Hàng giao lâu, chất lượng thì dưới trung bình!",negative,hàng giao lâu chất_lượng thì dưới trung_bình
+"App này mới nghe nói, để tải về xem sao.",neutral,app mới nghe nói để tải về xem sao
+"Clip kể chuyện ma ghê, xem tối nổi da gà!",positive,clip kể chuyện ma ghê xem tối nổi da gà
+"Phim gì mà nhảm nhí, bỏ ngang luôn!",negative,phim gì mà nhảm nhí bỏ ngang luôn
+"Sản phẩm này giá mềm, chưa biết dùng ổn không.",neutral,sản_phẩm giá mềm chưa biết dùng ổn không
+"Game này gay cấn, chơi mà không muốn dừng!",positive,game gay_cấn chơi mà không muốn dừng
+"Dịch vụ quảng cáo thì ngon, thực tế thì dở!",negative,dịch_vụ quảng_cáo thì ngon thực_tế thì dở
+"Nhạc này lạ lạ, chưa rõ có hợp không.",neutral,nhạc lạ_lạ chưa rõ hợp không
+"Video này hình ảnh đẹp, xem mê luôn!",positive,video hình_ảnh đẹp xem mê luôn
+"Hàng giao thiếu, shop đổ lỗi cho khách!",negative,hàng giao thiếu shop đổ lỗi khách
+"Clip này nội dung mới mẻ, để xem hết đã.",neutral,clip nội_dung mới_mẻ để xem hết
+"App này giao diện đẹp, dùng rất thích!",positive,app giao_diện đẹp dùng rất thích
+"Phim dở tệ hại, phí cả buổi tối!",negative,phim dở_tệ hại phí cả buổi tối
+"Game này bạn chơi khen, để thử xem sao.",neutral,game bạn chơi khen để thử xem sao
+"Nhạc live này đỉnh, nghe mà nổi hết da gà!",positive,nhạc live đỉnh nghe mà nổi hết da gà
+"Giao hàng chậm, còn giao nhầm hàng nữa!",negative,giao hàng chậm còn giao nhầm hàng nữa
+"Video này hơi buồn, chưa biết có hay không.",neutral,video hơi buồn chưa biết hay không
+"Sản phẩm vượt kỳ vọng, đáng đồng tiền!",positive,sản_phẩm vượt kỳ_vọng đáng đồng_tiền
+Dịch vụ chăm sóc khách hàng như trò đùa!,negative,dịch_vụ chăm_sóc khách_hàng như trò đùa
+"Phim này dài tập, để từ từ xem.",neutral,phim dài_tập để từ_từ xem
+"Clip này hài hước, xem cười chảy nước mắt!",positive,clip hài_hước xem cười chảy nước_mắt
+"Hàng rẻ mà kém, dùng vài bữa là hỏng!",negative,hàng rẻ mà kém dùng vài bữa hỏng
+"App này mới ra mắt, chưa rõ có tốt không.",neutral,app mới ra_mắt chưa rõ tốt không
+"Game này hấp dẫn, chơi mà quên giờ giấc!",positive,game hấp_dẫn chơi mà quên giờ_giấc
+"Nhạc gì mà lạc lõng, nghe chẳng vào!",negative,nhạc gì mà lạc_lõng nghe chẳng vào
+"Video này hình đẹp, chưa rõ nội dung ra sao.",neutral,video hình_đẹp chưa rõ nội_dung ra sao
+"Phim này kịch bản sáng tạo, xem rất thích!",positive,phim kịch_bản sáng_tạo xem rất thích
+"Dịch vụ giao hàng thiếu trách nhiệm, tệ!",negative,dịch_vụ giao hàng thiếu trách_nhiệm tệ
+"Sản phẩm này giá cao, để cân nhắc thêm.",neutral,sản_phẩm giá cao để cân_nhắc thêm
+"Clip phân tích chi tiết, xem học được nhiều!",positive,clip phân_tích chi_tiết xem học nhiều
+"Hàng giao trầy xước, shop không chịu trách nhiệm!",negative,hàng giao trầy_xước shop không chịu trách_nhiệm
+"Game này mới lên kệ, chưa biết có hot không.",neutral,game mới lên kệ chưa biết hot không
+"Nhạc này nhẹ nhàng, nghe thư giãn ghê!",positive,nhạc nhẹ_nhàng nghe thư_giãn ghê
+"App toàn lỗi, dùng mà muốn đập điện thoại!",negative,app toàn lỗi dùng mà muốn đập điện_thoại
+"Video này ngắn gọn, xem thấy cũng được.",neutral,video ngắn_gọn xem thấy
+"Phim hành động này mãn nhãn, quá đỉnh!",positive,phim hành_động mãn nhãn quá đỉnh
+"Dịch vụ giao hàng lề mề, không đáng tin!",negative,dịch_vụ giao hàng lề_mề không đáng tin
+"Sản phẩm này bạn recommend, để thử xem.",neutral,sản_phẩm bạn recommend để thử xem
+"Clip này ý tưởng độc đáo, xem thích mê!",positive,clip ý_tưởng độc_đáo xem thích mê
+"Hàng giao lâu, mở ra còn hỏng luôn!",negative,hàng giao_lâu mở ra còn hỏng luôn
+"Nhạc này mới lạ, chưa biết có thích không.",neutral,nhạc mới_lạ chưa biết thích không
+"Game nhập vai này hay, chơi cực kỳ cuốn!",positive,game nhập_vai hay chơi cực_kỳ cuốn
+"Dịch vụ quá tệ, không xứng đáng 1 sao!",negative,dịch_vụ quá tệ không xứng_đáng 1 sao
+"Video này nội dung nhẹ nhàng, xem cho vui.",neutral,video nội_dung nhẹ_nhàng xem vui
+"Phim này cảm động, xem mà khóc nức nở!",positive,phim cảm_động xem mà khóc nức_nở
+"Hàng gì mà lởm thế, mua về tức tối!",negative,hàng gì mà lởm_thế mua về tức tối
+"App này mới cài đặt, chưa rõ có ổn không.",neutral,app mới cài_đặt chưa rõ ổn không
+"Clip reaction này vui, xem cười đau bụng!",positive,clip reaction vui xem cười đau bụng
+"Giao hàng chậm, nhân viên còn thái độ!",negative,giao hàng chậm nhân_viên còn thái_độ
+"Game này đồ họa đẹp, để trải nghiệm xem.",neutral,game đồ họa đẹp để trải_nghiệm xem
+"Nhạc EDM này sôi động, nghe muốn nhảy!",positive,nhạc edm sôi_động nghe muốn nhảy
+"Dịch vụ hỗ trợ khách hàng kém cỏi, chán!",negative,dịch_vụ hỗ_trợ khách_hàng kém_cỏi chán
+"Phim này dài, chưa biết có đáng xem không.",neutral,phim dài chưa biết đáng xem không
+"Video này sáng tạo, xem mà trầm trồ ghê!",positive,video sáng_tạo xem mà trầm_trồ ghê
+"Hàng giao sai mẫu, shop không chịu đổi!",negative,hàng giao sai mẫu shop không chịu đổi
+"Sản phẩm này giá rẻ, để mua thử đã.",neutral,sản_phẩm giá rẻ để mua thử
+"Game này kịch tính, chơi mà tim đập mạnh!",positive,game kịch tính_chơi mà tim đập mạnh
+"Nhạc gì mà chán ngắt, nghe phát buồn!",negative,nhạc gì mà chán_ngắt nghe phát buồn
+"Clip này nội dung lạ, xem thử cho biết.",neutral,clip nội_dung lạ xem thử biết
+"Phim này plot hay, xem xong bất ngờ!",positive,phim plot hay xem xong bất_ngờ
+"Dịch vụ giao hàng tệ hại, không đúng giờ!",negative,dịch_vụ giao hàng tệ_hại không đúng giờ
+"App này nghe nói tiện, để dùng thử xem.",neutral,app nghe nói_tiện để dùng thử xem
+"Video du lịch này đẹp, xem muốn đi ngay!",positive,video du_lịch đẹp xem muốn đi ngay
+"Hàng kém bền, dùng vài hôm là hỏng!",negative,hàng kém bền dùng vài hôm hỏng
+"Nhạc này bình thường, chưa thấy gì hay.",neutral,nhạc bình_thường chưa thấy gì hay
+"Game này lôi cuốn, chơi quên cả ăn!",positive,game lôi_cuốn chơi quên cả ăn
+"Dịch vụ hỗ trợ chậm, thái độ không tốt!",negative,dịch_vụ hỗ_trợ chậm thái_độ không tốt
+"Phim này bạn khen, để xem có hay không.",neutral,phim bạn khen để xem hay không
+"Clip này hình ảnh đẹp, nội dung cuốn!",positive,clip hình_ảnh đẹp nội_dung cuốn
+"Hàng giao trễ, còn bị bể vỡ nữa!",negative,hàng giao_trễ còn bể vỡ nữa
+"Sản phẩm này giá ổn, chưa rõ chất lượng.",neutral,sản_phẩm giá ổn chưa rõ chất_lượng
+"Nhạc ballad này thấm, nghe mà xúc động!",positive,nhạc ballad thấm nghe mà xúc_động
+"Video này đỉnh thật, nội dung quá sáng tạo!",positive,video đỉnh thật nội_dung quá sáng_tạo
+"Dịch vụ quá tệ, không ai thèm quay lại!",negative,dịch_vụ quá tệ không ai thèm quay lại
+"Game này mới phát hành, chưa rõ có đáng chơi.",neutral,game mới phát_hành chưa rõ đáng chơi
+"Nhạc này cuốn hút, nghe là muốn hát theo!",positive,nhạc cuốn_hút nghe muốn hát theo
+"Giao hàng siêu chậm, làm ăn chán quá!",negative,giao hàng siêu_chậm làm_ăn chán quá
+"Clip này nội dung nhẹ, xem thư giãn thôi.",neutral,clip nội_dung nhẹ xem thư_giãn thôi
+"Phim này gay cấn, xem mà nghẹt thở!",positive,phim gay_cấn xem mà nghẹt_thở
+"Hàng kém chất lượng, mua về chỉ tổ bực!",negative,hàng kém chất_lượng mua về chỉ tổ bực
+"Sản phẩm này bạn giới thiệu, để thử xem.",neutral,sản_phẩm bạn giới_thiệu để thử xem
+"App này nhanh nhẹn, dùng sướng cả người!",positive,app nhanh_nhẹn dùng sướng cả người
+"Nhạc gì mà lạc quẻ, nghe không nổi!",negative,nhạc gì mà lạc_quẻ nghe không nổi
+"Video này hơi dài dòng, chưa rõ hay không.",neutral,video hơi dài_dòng chưa rõ hay không
+"Clip này dạy hay, áp dụng được luôn!",positive,clip dạy hay áp_dụng luôn
+"Dịch vụ giao hàng tệ, không đúng cam kết!",negative,dịch_vụ giao hàng tệ không đúng cam_kết
+"Game này đồ họa đẹp, để chơi thử đã.",neutral,game đồ họa đẹp để chơi thử
+"Phim này ý nghĩa sâu sắc, xem xong thấm!",positive,phim ý_nghĩa sâu_sắc xem xong thấm
+"Hàng giao sai mẫu, shop còn đổ lỗi khách!",negative,hàng giao sai mẫu shop còn đổ lỗi khách
+"Nhạc này nghe ổn, nhưng không quá nổi bật.",neutral,nhạc nghe ổn nhưng không quá nổi_bật
+"Video dựng quá đỉnh, xem mê mẩn luôn!",positive,video dựng quá đỉnh xem mê_mẩn luôn
+"App này lag hoài, xài mà phát cáu!",negative,app lag hoài_xài mà phát cáu
+"Sản phẩm này mới mua, chưa biết bền không.",neutral,sản_phẩm mới mua chưa biết bền không
+"Clip này tích cực, xem xong vui cả ngày!",positive,clip tích_cực xem xong vui cả ngày
+"Giao hàng trễ hạn, hàng còn bị móp!",negative,giao hàng trễ hạn hàng còn móp
+"Phim này nghe bảo buồn, để xem thử sao.",neutral,phim nghe bảo buồn để xem thử sao
+"Game này chiến thuật hay, chơi cực kỳ thích!",positive,game chiến_thuật hay chơi cực_kỳ thích
+"Dịch vụ hỗ trợ khách hàng lười biếng, chán!",negative,dịch_vụ hỗ_trợ khách_hàng lười_biếng chán
+"Video này ngắn, xem giải trí cũng được.",neutral,video ngắn xem giải_trí
+"Nhạc acoustic này nhẹ, nghe thư thái ghê!",positive,nhạc acoustic nhẹ nghe thư_thái ghê
+"Hàng giao lâu, chất lượng thì quá tệ!",negative,hàng giao lâu chất_lượng thì quá tệ
+"App này mới nghe nói, để cài thử xem.",neutral,app mới nghe nói để cài thử xem
+"Clip kể chuyện rùng rợn, xem mà sợ!",positive,clip kể chuyện rùng_rợn xem mà sợ
+"Phim này nhạt nhẽo, xem nửa đường bỏ!",negative,phim nhạt nhẽo xem nửa đường bỏ
+"Sản phẩm này giá rẻ, chưa rõ dùng tốt không.",neutral,sản_phẩm giá rẻ chưa rõ dùng tốt không
+"Game này hồi hộp, chơi mà tim đập nhanh!",positive,game hồi_hộp chơi mà tim đập nhanh
+"Dịch vụ quảng cáo hay, thực tế thì dởm!",negative,dịch_vụ quảng_cáo hay thực_tế thì dởm
+"Nhạc này lạ lạ, chưa biết có hợp gu.",neutral,nhạc lạ_lạ chưa biết hợp gu
+"Video này quay đẹp, xem thích mắt ghê!",positive,video quay đẹp xem thích mắt ghê
+"Hàng giao thiếu đồ, shop không chịu bù!",negative,hàng giao thiếu đồ_shop không chịu bù
+"Clip này nội dung mới, để xem hết thử.",neutral,clip nội_dung mới để xem hết thử
+"App này giao diện mượt, dùng rất đã!",positive,app giao_diện mượt dùng rất
+"Phim này dở kinh khủng, phí thời gian!",negative,phim dở_kinh khủng_phí thời_gian
+"Game này bạn khen, để chơi thử xem.",neutral,game bạn khen để chơi thử xem
+"Nhạc live này hay, nghe mà nổi da gà!",positive,nhạc live hay nghe mà nổi da gà
+"Giao hàng chậm, còn giao nhầm địa chỉ!",negative,giao hàng chậm còn giao nhầm địa_chỉ
+"Video này hơi buồn, chưa rõ có hay không.",neutral,video hơi buồn chưa rõ hay không
+"Sản phẩm này đáng giá, mua không tiếc!",positive,sản_phẩm đáng_giá mua không tiếc
+"Dịch vụ hỗ trợ khách hàng quá kém, bực!",negative,dịch_vụ hỗ_trợ khách_hàng quá kém bực
+"Phim này dài tập, để xem từ từ.",neutral,phim dài_tập để xem từ_từ
+"Clip này cười đau bụng, xem quá đã!",positive,clip cười đau bụng xem quá
+"Hàng rẻ mà kém, mua về vứt xó!",negative,hàng rẻ mà kém mua về vứt_xó
+"App này mới ra, chưa biết có tốt không.",neutral,app mới ra chưa biết tốt không
+"Game này lôi cuốn, chơi quên cả ngủ!",positive,game lôi_cuốn chơi quên cả ngủ
+"Nhạc gì mà chán chết, nghe không vô!",negative,nhạc gì mà chán chết nghe không vô
+"Video này hình đẹp, chưa rõ nội dung sao.",neutral,video hình_đẹp chưa rõ nội_dung sao
+"Phim này kịch bản hay, xem rất cuốn!",positive,phim kịch_bản hay xem rất cuốn
+"Dịch vụ giao hàng thiếu chuyên nghiệp, tệ!",negative,dịch_vụ giao hàng thiếu chuyên_nghiệp tệ
+"Sản phẩm này giá cao, để suy nghĩ thêm.",neutral,sản_phẩm giá cao để suy_nghĩ thêm
+"Clip này phân tích sâu, xem học hỏi nhiều!",positive,clip phân_tích sâu xem học_hỏi nhiều
+"Hàng giao trầy, shop không chịu đổi mới!",negative,hàng giao trầy shop không chịu đổi_mới
+"Game này mới lên sóng, chưa biết hot không.",neutral,game mới lên sóng chưa biết hot không
+"Nhạc này dịu dàng, nghe muốn thả hồn!",positive,nhạc dịu_dàng nghe muốn thả hồn
+"App này toàn lỗi, dùng mà tức điên!",negative,app toàn lỗi dùng mà tức điên
+"Video này ngắn gọn, xem thấy cũng ổn.",neutral,video ngắn_gọn xem thấy ổn
+"Phim hành động này đỉnh, xem sướng mắt!",positive,phim hành_động đỉnh xem sướng mắt
+"Dịch vụ giao hàng lằng nhằng, không đáng tin!",negative,dịch_vụ giao hàng lằng_nhằng không đáng tin
+"Sản phẩm này bạn gợi ý, để thử xem sao.",neutral,sản_phẩm bạn gợi_ý để thử xem sao
+"Clip này ý tưởng lạ, xem thích ghê!",positive,clip ý_tưởng lạ xem thích ghê
+"Hàng giao lâu, mở ra hỏng luôn!",negative,hàng giao_lâu mở ra hỏng luôn
+"Nhạc này mới mẻ, chưa biết có thích không.",neutral,nhạc mới_mẻ chưa biết thích không
+"Game nhập vai này đỉnh, chơi cực kỳ cuốn!",positive,game nhập_vai đỉnh chơi cực_kỳ cuốn
+"Dịch vụ quá tệ, không đáng để thử!",negative,dịch_vụ quá tệ không đáng để thử
+"Video này nội dung nhẹ, xem cho vui.",neutral,video nội_dung nhẹ xem vui
+"Phim này cảm xúc, xem mà rơi nước mắt!",positive,phim cảm_xúc xem mà rơi nước_mắt
+"Hàng gì mà kém thế, mua về tiếc nuối!",negative,hàng gì mà kém thế mua về tiếc_nuối
+"App này mới tải, chưa rõ có ổn không.",neutral,app mới tải chưa rõ ổn không
+"Clip reaction này vui, xem cười sảng khoái!",positive,clip reaction vui xem cười sảng_khoái
+"Giao hàng chậm, nhân viên còn vô trách nhiệm!",negative,giao hàng chậm nhân_viên còn vô_trách_nhiệm
+"Game này đồ họa đẹp, để chơi thử xem.",neutral,game đồ họa đẹp để chơi thử xem
+"Nhạc EDM này bốc, nghe muốn nhún nhảy!",positive,nhạc edm bốc nghe muốn nhún_nhảy
+"Dịch vụ hỗ trợ khách hàng tệ, không nhiệt tình!",negative,dịch_vụ hỗ_trợ khách_hàng tệ không nhiệt_tình
+"Phim này dài, chưa biết có đáng xem.",neutral,phim dài chưa biết đáng xem
+"Video này độc đáo, xem mà mê mẩn!",positive,video độc_đáo xem mà mê mẩn
+"Hàng giao sai, shop không chịu sửa lỗi!",negative,hàng giao sai shop không chịu sửa lỗi
+"Sản phẩm này giá mềm, để mua thử xem.",neutral,sản_phẩm giá mềm để mua thử xem
+"Game này căng thẳng, chơi mà hồi hộp!",positive,game căng_thẳng chơi mà hồi_hộp
+"Nhạc gì mà chán ngắt, nghe phát chán!",negative,nhạc gì mà chán_ngắt nghe phát chán
+"Clip này nội dung lạ, xem thử chơi.",neutral,clip nội_dung lạ xem thử chơi
+"Phim này plot twist đỉnh, xem bất ngờ!",positive,phim plot twist đỉnh xem bất_ngờ
+"Dịch vụ giao hàng tệ, không đúng hẹn!",negative,dịch_vụ giao hàng tệ không đúng hẹn
+"App này nghe bảo tiện, để dùng thử.",neutral,app nghe bảo_tiện để dùng thử
+"Video du lịch này đẹp, xem muốn đi liền!",positive,video du_lịch đẹp xem muốn đi liền
+"Hàng kém chất lượng, dùng vài hôm hỏng!",negative,hàng kém chất_lượng dùng vài hôm hỏng
+"Nhạc này bình thường, chưa thấy gì đặc biệt.",neutral,nhạc bình_thường chưa thấy gì đặc_biệt
+"Game này hấp dẫn, chơi quên cả thời gian!",positive,game hấp_dẫn chơi quên cả thời_gian
+"Dịch vụ hỗ trợ chậm, thái độ không tốt!",negative,dịch_vụ hỗ_trợ chậm thái_độ không tốt
+"Phim này bạn khen, để xem thử sao.",neutral,phim bạn khen để xem thử sao
+"Clip này quay đẹp, nội dung lôi cuốn!",positive,clip quay đẹp nội_dung lôi_cuốn
+"Hàng giao trễ, còn bị bể nữa!",negative,hàng giao_trễ còn bể nữa
+"Sản phẩm này giá ổn, chưa rõ bền không.",neutral,sản_phẩm giá ổn chưa rõ bền không
+"Nhạc ballad này hay, nghe mà thấm thía!",positive,nhạc ballad hay nghe mà thấm_thía
+"Video này quá đỉnh, xem xong muốn xem lại!",positive,video quá đỉnh xem xong muốn xem_lại
+"Dịch vụ quá tệ, không đáng để thử lần hai!",negative,dịch_vụ quá tệ không đáng để thử lần hai
+"Game này mới ra mắt, chưa biết có hay không.",neutral,game mới ra_mắt chưa biết hay không
+"Nhạc này hay tuyệt, nghe là mê mẩn!",positive,nhạc hay tuyệt_nghe mê mẩn
+"Giao hàng siêu chậm, làm ăn thiếu trách nhiệm!",negative,giao hàng siêu_chậm làm_ăn thiếu trách_nhiệm
+"Clip này nội dung ổn, xem giải trí được.",neutral,clip nội_dung ổn xem giải_trí
+"Phim này kịch tính, xem mà tim đập thình thịch!",positive,phim kịch tính xem mà tim đập thình_thịch
+"Hàng gì mà kém thế, mua về chỉ tổ tức!",negative,hàng gì mà kém thế mua về chỉ tổ tức
+"Sản phẩm này bạn recommend, để thử xem sao.",neutral,sản_phẩm bạn recommend để thử xem sao
+"App này mượt mà, dùng thích không tả nổi!",positive,app mượt_mà dùng thích không tả nổi
+"Nhạc gì mà chán thế, nghe chẳng ra hồn!",negative,nhạc gì mà chán_thế nghe chẳng ra hồn
+"Video này hơi dài, chưa rõ có đáng xem.",neutral,video hơi dài chưa rõ đáng xem
+"Clip này dạy hay, làm theo thành công liền!",positive,clip dạy hay làm theo thành_công liền
+"Dịch vụ giao hàng tệ, không tôn trọng khách!",negative,dịch_vụ giao hàng tệ không tôn_trọng khách
+"Game này hình ảnh đẹp, để chơi thử xem.",neutral,game hình_ảnh đẹp để chơi thử xem
+"Phim này cảm động, xem xong rưng rưng nước mắt!",positive,phim cảm_động xem xong rưng_rưng nước_mắt
+"Hàng giao sai mẫu, shop còn không chịu đổi!",negative,hàng giao sai mẫu shop còn không chịu đổi
+"Nhạc này nghe tạm, chưa có gì nổi trội.",neutral,nhạc nghe tạm chưa gì nổi_trội
+"Video dựng quá đẹp, nội dung cuốn hút ghê!",positive,video dựng quá đẹp nội_dung cuốn_hút ghê
+"App này lag kinh khủng, dùng mà phát bực!",negative,app lag kinh_khủng_dùng mà phát bực
+"Sản phẩm này mới mua, chưa biết dùng lâu được không.",neutral,sản_phẩm mới mua chưa biết dùng lâu không
+"Clip này tích cực, xem xong thấy yêu đời!",positive,clip tích_cực xem xong thấy yêu đời
+"Giao hàng trễ, hàng còn bị méo mó nữa!",negative,giao hàng trễ hàng còn méo_mó nữa
+"Phim này nghe nói hay, để xem thử đã.",neutral,phim nghe nói hay để xem thử
+"Game này chiến thuật đỉnh, chơi cực kỳ phê!",positive,game chiến_thuật đỉnh chơi cực_kỳ phê
+"Dịch vụ hỗ trợ khách hàng quá tệ, chán luôn!",negative,dịch_vụ hỗ_trợ khách_hàng quá tệ_chán luôn
+"Video này ngắn gọn, xem cho vui thôi.",neutral,video ngắn_gọn xem vui thôi
+"Nhạc acoustic này dịu dàng, nghe thư giãn lắm!",positive,nhạc acoustic dịu_dàng nghe thư_giãn lắm
+"Hàng giao lâu, chất lượng thì quá kém!",negative,hàng giao lâu chất_lượng thì quá kém
+"App này mới nghe nói, để tải về thử.",neutral,app mới nghe nói để tải về thử
+"Clip kể chuyện ma rùng rợn, xem mà nổi da gà!",positive,clip kể chuyện ma rùng_rợn xem mà nổi da gà
+"Phim này nhạt nhẽo, xem nửa chừng là bỏ!",negative,phim nhạt nhẽo xem nửa_chừng bỏ
+"Sản phẩm này giá mềm, chưa rõ chất lượng sao.",neutral,sản_phẩm giá mềm chưa rõ chất_lượng sao
+"Game này căng thẳng, chơi mà hồi hộp ghê!",positive,game căng_thẳng chơi mà hồi_hộp ghê
+"Dịch vụ quảng cáo thì hay, thực tế thì dở!",negative,dịch_vụ quảng_cáo thì hay thực_tế thì dở
+"Nhạc này lạ tai, chưa biết có hợp không.",neutral,nhạc lạ_tai chưa biết hợp không
+"Video này quay đẹp, xem đã mắt lắm!",positive,video quay đẹp xem mắt lắm
+"Hàng giao thiếu phụ kiện, shop không chịu bù!",negative,hàng giao thiếu phụ_kiện shop không chịu bù
+"Clip này nội dung mới lạ, để xem hết xem.",neutral,clip nội_dung mới_lạ để xem hết xem
+"App này giao diện xịn, dùng rất tiện!",positive,app giao_diện xịn dùng rất tiện
+"Phim này dở tệ, phí cả buổi tối xem!",negative,phim dở tệ_phí cả buổi tối xem
+"Game này bạn khen, để chơi thử xem sao.",neutral,game bạn khen để chơi thử xem sao
+"Nhạc live này đỉnh, nghe mà nổi hết da gà!",positive,nhạc live đỉnh nghe mà nổi hết da gà
+"Giao hàng chậm, còn giao nhầm chỗ nữa!",negative,giao hàng chậm còn giao nhầm chỗ nữa
+"Video này hơi buồn, chưa rõ có hay không.",neutral,video hơi buồn chưa rõ hay không
+"Sản phẩm này đáng tiền, mua không hối tiếc!",positive,sản_phẩm đáng tiền mua không hối_tiếc
+"Dịch vụ hỗ trợ khách hàng tệ, không đáng tin!",negative,dịch_vụ hỗ_trợ khách_hàng tệ không đáng tin
+"Phim này dài tập, để xem dần dần.",neutral,phim dài_tập để xem dần_dần
+"Clip này hài hước, xem cười bể bụng!",positive,clip hài_hước xem cười bể bụng
+"Hàng rẻ mà kém, mua về chỉ tổ vứt!",negative,hàng rẻ mà kém mua về chỉ tổ vứt
+"App này mới ra, chưa biết có ổn không.",neutral,app mới ra chưa biết ổn không
+"Game này cuốn hút, chơi quên cả giờ giấc!",positive,game cuốn_hút chơi quên cả giờ_giấc
+"Nhạc gì mà chán thế, nghe không nổi luôn!",negative,nhạc gì mà chán_thế nghe không nổi luôn
+"Video này hình đẹp, chưa rõ nội dung thế nào.",neutral,video hình_đẹp chưa rõ nội_dung thế_nào
+"Phim này kịch bản hay, xem rất đã!",positive,phim kịch_bản hay xem rất
+"Dịch vụ giao hàng thiếu trách nhiệm, chán!",negative,dịch_vụ giao hàng thiếu trách_nhiệm chán
+"Sản phẩm này giá cao, để cân nhắc thêm.",neutral,sản_phẩm giá cao để cân_nhắc thêm
+"Clip này phân tích kỹ, xem học được nhiều!",positive,clip phân_tích kỹ xem học nhiều
+"Hàng giao trầy xước, shop không chịu trách nhiệm!",negative,hàng giao trầy_xước shop không chịu trách_nhiệm
+"Game này mới lên kệ, chưa biết có hot không.",neutral,game mới lên kệ chưa biết hot không
+"Nhạc này nhẹ nhàng, nghe muốn thả hồn!",positive,nhạc nhẹ_nhàng nghe muốn thả hồn
+"App này lỗi liên tục, dùng mà tức điên!",negative,app lỗi liên_tục dùng mà tức điên
+"Video này ngắn gọn, xem thấy cũng ổn.",neutral,video ngắn_gọn xem thấy ổn
+"Phim hành động này đỉnh, xem mãn nhãn lắm!",positive,phim hành_động đỉnh xem mãn nhãn lắm
+"Dịch vụ giao hàng lằng nhằng, không đáng tin!",negative,dịch_vụ giao hàng lằng_nhằng không đáng tin
+"Sản phẩm này bạn gợi ý, để thử xem sao.",neutral,sản_phẩm bạn gợi_ý để thử xem sao
+"Clip này ý tưởng độc, xem thích mê!",positive,clip ý_tưởng độc xem thích mê
+"Hàng giao lâu, mở ra hỏng luôn!",negative,hàng giao_lâu mở ra hỏng luôn
+"Nhạc này mới lạ, chưa biết có thích không.",neutral,nhạc mới_lạ chưa biết thích không
+"Game nhập vai này hay, chơi cực kỳ cuốn!",positive,game nhập_vai hay chơi cực_kỳ cuốn
+"Dịch vụ quá tệ, không đáng để thử lần nữa!",negative,dịch_vụ quá tệ không đáng để thử lần nữa
+"Video này nội dung nhẹ, xem cho vui thôi.",neutral,video nội_dung nhẹ xem vui thôi
+"Phim này cảm xúc, xem mà rơi lệ!",positive,phim cảm_xúc xem mà rơi_lệ
+"Hàng gì mà kém thế, mua về tiếc đứt ruột!",negative,hàng gì mà kém thế mua về tiếc_đứt ruột
+"App này mới cài, chưa rõ có tốt không.",neutral,app mới cài chưa rõ tốt không
+"Clip reaction này vui, xem cười đau bụng!",positive,clip reaction vui xem cười đau bụng
+"Giao hàng chậm, nhân viên còn thái độ tệ!",negative,giao hàng chậm nhân_viên còn thái_độ tệ
+"Game này đồ họa đẹp, để chơi thử xem.",neutral,game đồ họa đẹp để chơi thử xem
+"Nhạc EDM này sôi động, nghe muốn nhảy luôn!",positive,nhạc edm sôi_động nghe muốn nhảy luôn
+"Dịch vụ hỗ trợ khách hàng kém, không nhiệt tình!",negative,dịch_vụ hỗ_trợ khách_hàng kém không nhiệt_tình
+"Phim này dài, chưa biết có đáng xem không.",neutral,phim dài chưa biết đáng xem không
+"Video này sáng tạo, xem mà trầm trồ!",positive,video sáng_tạo xem mà trầm_trồ
+"Hàng giao sai, shop không chịu sửa lỗi!",negative,hàng giao sai shop không chịu sửa lỗi
+"Sản phẩm này giá rẻ, để mua thử xem.",neutral,sản_phẩm giá rẻ để mua thử xem
+"Game này kịch tính, chơi mà tim đập mạnh!",positive,game kịch tính_chơi mà tim đập mạnh
+"Nhạc gì mà chán ngắt, nghe phát buồn!",negative,nhạc gì mà chán_ngắt nghe phát buồn
+"Clip này nội dung lạ, xem thử cho biết.",neutral,clip nội_dung lạ xem thử biết
+"Phim này plot hay, xem xong bất ngờ!",positive,phim plot hay xem xong bất_ngờ
+"Dịch vụ giao hàng tệ, không đúng giờ!",negative,dịch_vụ giao hàng tệ không đúng giờ
+"App này nghe bảo tiện, để dùng thử xem.",neutral,app nghe bảo_tiện để dùng thử xem
+"Video du lịch này đẹp, xem muốn đi ngay!",positive,video du_lịch đẹp xem muốn đi ngay
+"Hàng kém bền, dùng vài hôm là hỏng!",negative,hàng kém bền dùng vài hôm hỏng
+"Nhạc này bình thường, chưa thấy gì đặc biệt.",neutral,nhạc bình_thường chưa thấy gì đặc_biệt
+"Game này hấp dẫn, chơi quên cả ăn uống!",positive,game hấp_dẫn chơi quên cả ăn_uống
+"Dịch vụ hỗ trợ chậm, thái độ không ra gì!",negative,dịch_vụ hỗ_trợ chậm thái_độ không ra gì
+"Phim này bạn khen, để xem thử sao.",neutral,phim bạn khen để xem thử sao
+"Clip này quay đẹp, nội dung lôi cuốn!",positive,clip quay đẹp nội_dung lôi_cuốn
+"Hàng giao trễ, còn bị bể nữa chứ!",negative,hàng giao_trễ còn bể nữa chứ
+"Sản phẩm này giá ổn, chưa rõ bền không.",neutral,sản_phẩm giá ổn chưa rõ bền không
+"Nhạc ballad này thấm, nghe mà xúc động!",positive,nhạc ballad thấm nghe mà xúc_động
+"Video này quá chất, xem xong muốn share ngay!",positive,video quá chất xem xong muốn share ngay
+"Dịch vụ tệ hại, không đáng một đồng nào!",negative,dịch_vụ tệ_hại không đáng một đồng nào
+"Game này mới ra, chưa biết có đáng chơi không.",neutral,game mới ra chưa biết đáng chơi không
+"Nhạc này đỉnh thật, nghe là ghiền luôn!",positive,nhạc đỉnh thật nghe ghiền luôn
+"Giao hàng chậm kinh khủng, thái độ còn tệ!",negative,giao hàng chậm kinh_khủng_thái_độ còn tệ
+"Clip này nội dung ổn, xem cho vui thôi.",neutral,clip nội_dung ổn xem vui thôi
+"Phim này hồi hộp, xem mà không dám thở!",positive,phim hồi_hộp xem mà không dám thở
+"Hàng gì mà kém thế, mua về chỉ tổ bực!",negative,hàng gì mà kém thế mua về chỉ tổ bực
+"Sản phẩm này bạn giới thiệu, để thử xem.",neutral,sản_phẩm bạn giới_thiệu để thử xem
+"App này nhanh gọn, dùng thích mê ly!",positive,app nhanh gọn dùng thích mê_ly
+"Nhạc gì mà chán thế, nghe chẳng ra gì!",negative,nhạc gì mà chán_thế nghe chẳng ra gì
+"Video này hơi dài, chưa rõ có hay không.",neutral,video hơi dài chưa rõ hay không
+"Clip này dạy đỉnh, làm theo dễ ẹc!",positive,clip dạy đỉnh làm theo dễ ẹc
+"Dịch vụ giao hàng tệ, không đúng lời hứa!",negative,dịch_vụ giao hàng tệ không đúng lời hứa
+"Game này hình ảnh đẹp, để chơi thử đã.",neutral,game hình_ảnh đẹp để chơi thử
+"Phim này cảm động, xem xong muốn khóc!",positive,phim cảm_động xem xong muốn khóc
+"Hàng giao sai, shop còn không chịu nhận lỗi!",negative,hàng giao sai shop còn không chịu nhận lỗi
+"Nhạc này nghe tạm, chưa có gì ấn tượng.",neutral,nhạc nghe tạm chưa gì ấn_tượng
+"Video dựng quá hay, xem mà mê mẩn!",positive,video dựng quá hay xem mà mê mẩn
+"App này lag hoài, dùng mà phát điên!",negative,app lag hoài dùng mà phát điên
+"Sản phẩm này mới mua, chưa biết bền thế nào.",neutral,sản_phẩm mới mua chưa biết bền thế_nào
+"Clip này truyền cảm hứng, xem xong có động lực!",positive,clip truyền cảm_hứng xem xong động_lực
+"Giao hàng trễ, hàng còn bị hỏng nữa!",negative,giao hàng trễ hàng còn hỏng nữa
+"Phim này nghe nói hay, để xem thử sao.",neutral,phim nghe nói hay để xem thử sao
+"Game này chiến thuật đỉnh, chơi cực kỳ đã!",positive,game chiến_thuật đỉnh chơi cực_kỳ
+"Dịch vụ hỗ trợ khách hàng tệ, không đáng tin!",negative,dịch_vụ hỗ_trợ khách_hàng tệ không đáng tin
+"Video này ngắn gọn, xem giải trí cũng ổn.",neutral,video ngắn_gọn xem giải_trí ổn
+"Nhạc acoustic này hay, nghe thư giãn ghê!",positive,nhạc acoustic hay nghe thư_giãn ghê
+"Hàng giao lâu, chất lượng thì quá kém!",negative,hàng giao lâu chất_lượng thì quá kém
+"App này mới nghe nói, để tải về xem.",neutral,app mới nghe nói để tải về xem
+"Clip kể chuyện ma ghê, xem mà lạnh sống lưng!",positive,clip kể chuyện ma ghê xem mà lạnh sống lưng
+"Phim này nhạt nhẽo, xem nửa đường bỏ luôn!",negative,phim nhạt nhẽo xem nửa đường bỏ luôn
+"Sản phẩm này giá rẻ, chưa rõ dùng tốt không.",neutral,sản_phẩm giá rẻ chưa rõ dùng tốt không
+"Game này căng thẳng, chơi mà hồi hộp lắm!",positive,game căng_thẳng chơi mà hồi_hộp lắm
+"Dịch vụ quảng cáo thì ngon, thực tế thì tệ!",negative,dịch_vụ quảng_cáo thì ngon thực_tế thì tệ
+"Nhạc này lạ lạ, chưa biết có hợp gu không.",neutral,nhạc lạ_lạ chưa biết hợp_gu không
+"Video này quay đẹp, xem đã mắt ghê!",positive,video quay đẹp xem mắt ghê
+"Hàng giao thiếu, shop không chịu giải quyết!",negative,hàng giao thiếu shop không chịu giải_quyết
+"Clip này nội dung mới, để xem hết thử.",neutral,clip nội_dung mới để xem hết thử
+"App này giao diện đẹp, dùng rất tiện lợi!",positive,app giao_diện đẹp dùng rất tiện_lợi
+"Phim này dở kinh khủng, phí thời gian xem!",negative,phim dở_kinh khủng_phí thời_gian xem
+"Game này bạn khen, để chơi thử xem sao.",neutral,game bạn khen để chơi thử xem sao
+"Nhạc live này đỉnh, nghe mà nổi da gà!",positive,nhạc live đỉnh nghe mà nổi da gà
+"Giao hàng chậm, còn giao nhầm hàng nữa!",negative,giao hàng chậm còn giao nhầm hàng nữa
+"Video này hơi buồn, chưa rõ có hay không.",neutral,video hơi buồn chưa rõ hay không
+"Sản phẩm này đáng giá, mua không hối hận!",positive,sản_phẩm đáng_giá mua không hối_hận
+"Dịch vụ hỗ trợ khách hàng tệ, không nhiệt tình!",negative,dịch_vụ hỗ_trợ khách_hàng tệ không nhiệt_tình
+"Phim này dài tập, để xem từ từ.",neutral,phim dài_tập để xem từ_từ
+"Clip này hài hước, xem cười đau cả ruột!",positive,clip hài_hước xem cười đau cả ruột
+"Hàng rẻ mà kém, mua về chỉ tổ vứt!",negative,hàng rẻ mà kém mua về chỉ tổ vứt
+"App này mới ra, chưa biết có tốt không.",neutral,app mới ra chưa biết tốt không
+"Game này cuốn hút, chơi quên cả thời gian!",positive,game cuốn_hút chơi quên cả thời_gian
+"Nhạc gì mà chán thế, nghe không vô!",negative,nhạc gì mà chán_thế nghe không vô
+"Video này hình đẹp, chưa rõ nội dung sao.",neutral,video hình_đẹp chưa rõ nội_dung sao
+"Phim này kịch bản hay, xem rất cuốn!",positive,phim kịch_bản hay xem rất cuốn
+"Dịch vụ giao hàng thiếu trách nhiệm, chán!",negative,dịch_vụ giao hàng thiếu trách_nhiệm chán
+"Sản phẩm này giá cao, để suy nghĩ thêm.",neutral,sản_phẩm giá cao để suy_nghĩ thêm
+"Clip này phân tích sâu, xem học được nhiều!",positive,clip phân_tích sâu xem học nhiều
+"Hàng giao trầy, shop không chịu đổi mới!",negative,hàng giao trầy shop không chịu đổi_mới
+"Game này mới lên kệ, chưa biết có hot không.",neutral,game mới lên kệ chưa biết hot không
+"Nhạc này nhẹ nhàng, nghe muốn thả hồn!",positive,nhạc nhẹ_nhàng nghe muốn thả hồn
+"App này lỗi liên tục, dùng mà tức điên!",negative,app lỗi liên_tục dùng mà tức điên
+"Video này ngắn gọn, xem thấy cũng ổn.",neutral,video ngắn_gọn xem thấy ổn
+"Phim hành động này đỉnh, xem mãn nhãn lắm!",positive,phim hành_động đỉnh xem mãn nhãn lắm
+"Dịch vụ giao hàng lằng nhằng, không đáng tin!",negative,dịch_vụ giao hàng lằng_nhằng không đáng tin
+"Sản phẩm này bạn gợi ý, để thử xem sao.",neutral,sản_phẩm bạn gợi_ý để thử xem sao
+"Clip này ý tưởng độc, xem thích mê!",positive,clip ý_tưởng độc xem thích mê
+"Hàng giao lâu, mở ra hỏng luôn!",negative,hàng giao_lâu mở ra hỏng luôn
+"Nhạc này mới lạ, chưa biết có thích không.",neutral,nhạc mới_lạ chưa biết thích không
+"Game nhập vai này hay, chơi cực kỳ cuốn!",positive,game nhập_vai hay chơi cực_kỳ cuốn
+"Dịch vụ quá tệ, không đáng để thử lần nữa!",negative,dịch_vụ quá tệ không đáng để thử lần nữa
+"Video này nội dung nhẹ, xem cho vui thôi.",neutral,video nội_dung nhẹ xem vui thôi
+"Phim này cảm xúc, xem mà rơi nước mắt!",positive,phim cảm_xúc xem mà rơi nước_mắt
+"Hàng gì mà kém thế, mua về tiếc đứt ruột!",negative,hàng gì mà kém thế mua về tiếc_đứt ruột
+"App này mới cài, chưa rõ có tốt không.",neutral,app mới cài chưa rõ tốt không
+"Clip reaction này vui, xem cười sảng khoái!",positive,clip reaction vui xem cười sảng_khoái
+"Giao hàng chậm, nhân viên còn thái độ tệ!",negative,giao hàng chậm nhân_viên còn thái_độ tệ
+"Game này đồ họa đẹp, để chơi thử xem.",neutral,game đồ họa đẹp để chơi thử xem
+"Nhạc EDM này sôi động, nghe muốn nhảy luôn!",positive,nhạc edm sôi_động nghe muốn nhảy luôn
+"Dịch vụ hỗ trợ khách hàng kém, không nhiệt tình!",negative,dịch_vụ hỗ_trợ khách_hàng kém không nhiệt_tình
+"Phim này dài, chưa biết có đáng xem không.",neutral,phim dài chưa biết đáng xem không
+"Video này sáng tạo, xem mà trầm trồ!",positive,video sáng_tạo xem mà trầm_trồ
+"Hàng giao sai, shop không chịu sửa lỗi!",negative,hàng giao sai shop không chịu sửa lỗi
+"Sản phẩm này giá rẻ, để mua thử xem.",neutral,sản_phẩm giá rẻ để mua thử xem
+"Game này kịch tính, chơi mà tim đập mạnh!",positive,game kịch tính_chơi mà tim đập mạnh
+"Nhạc gì mà chán ngắt, nghe phát buồn!",negative,nhạc gì mà chán_ngắt nghe phát buồn
+"Clip này nội dung lạ, xem thử cho biết.",neutral,clip nội_dung lạ xem thử biết
+"Phim này plot hay, xem xong bất ngờ!",positive,phim plot hay xem xong bất_ngờ
+"Dịch vụ giao hàng tệ, không đúng giờ!",negative,dịch_vụ giao hàng tệ không đúng giờ
+"App này nghe bảo tiện, để dùng thử xem.",neutral,app nghe bảo_tiện để dùng thử xem
+"Video du lịch này đẹp, xem muốn đi ngay!",positive,video du_lịch đẹp xem muốn đi ngay
+"Hàng kém bền, dùng vài hôm là hỏng!",negative,hàng kém bền dùng vài hôm hỏng
+"Nhạc này bình thường, chưa thấy gì đặc biệt.",neutral,nhạc bình_thường chưa thấy gì đặc_biệt
+"Game này hấp dẫn, chơi quên cả ăn uống!",positive,game hấp_dẫn chơi quên cả ăn_uống
+"Dịch vụ hỗ trợ chậm, thái độ không ra gì!",negative,dịch_vụ hỗ_trợ chậm thái_độ không ra gì
+"Phim này bạn khen, để xem thử sao.",neutral,phim bạn khen để xem thử sao
+"Clip này quay đẹp, nội dung lôi cuốn!",positive,clip quay đẹp nội_dung lôi_cuốn
+"Hàng giao trễ, còn bị bể nữa chứ!",negative,hàng giao_trễ còn bể nữa chứ
+"Sản phẩm này giá ổn, chưa rõ bền không.",neutral,sản_phẩm giá ổn chưa rõ bền không
+"Nhạc ballad này thấm, nghe mà xúc động!",positive,nhạc ballad thấm nghe mà xúc_động
+"Video này quá chất, xem xong muốn share ngay!",positive,video quá chất xem xong muốn share ngay
+"Dịch vụ tệ hại, không đáng một đồng nào!",negative,dịch_vụ tệ_hại không đáng một đồng nào
+"Game này mới ra, chưa biết có đáng chơi không.",neutral,game mới ra chưa biết đáng chơi không
+"Nhạc này đỉnh thật, nghe là ghiền luôn!",positive,nhạc đỉnh thật nghe ghiền luôn
+"Giao hàng chậm kinh khủng, thái độ còn tệ!",negative,giao hàng chậm kinh_khủng_thái_độ còn tệ
+"Clip này nội dung ổn, xem cho vui thôi.",neutral,clip nội_dung ổn xem vui thôi
+"Phim này hồi hộp, xem mà không dám thở!",positive,phim hồi_hộp xem mà không dám thở
+"Hàng gì mà kém thế, mua về chỉ tổ bực!",negative,hàng gì mà kém thế mua về chỉ tổ bực
+"Sản phẩm này bạn giới thiệu, để thử xem.",neutral,sản_phẩm bạn giới_thiệu để thử xem
+"App này nhanh gọn, dùng thích mê ly!",positive,app nhanh gọn dùng thích mê_ly
+"Nhạc gì mà chán thế, nghe chẳng ra gì!",negative,nhạc gì mà chán_thế nghe chẳng ra gì
+"Video này hơi dài, chưa rõ có hay không.",neutral,video hơi dài chưa rõ hay không
+"Clip này dạy đỉnh, làm theo dễ ẹc!",positive,clip dạy đỉnh làm theo dễ ẹc
+"Dịch vụ giao hàng tệ, không đúng lời hứa!",negative,dịch_vụ giao hàng tệ không đúng lời hứa
+"Game này hình ảnh đẹp, để chơi thử đã.",neutral,game hình_ảnh đẹp để chơi thử
+"Phim này cảm động, xem xong muốn khóc!",positive,phim cảm_động xem xong muốn khóc
+"Hàng giao sai, shop còn không chịu nhận lỗi!",negative,hàng giao sai shop còn không chịu nhận lỗi
+"Nhạc này nghe tạm, chưa có gì ấn tượng.",neutral,nhạc nghe tạm chưa gì ấn_tượng
+"Video dựng quá hay, xem mà mê mẩn!",positive,video dựng quá hay xem mà mê mẩn
+"App này lag hoài, dùng mà phát điên!",negative,app lag hoài dùng mà phát điên
+"Sản phẩm này mới mua, chưa biết bền thế nào.",neutral,sản_phẩm mới mua chưa biết bền thế_nào
+"Clip này truyền cảm hứng, xem xong có động lực!",positive,clip truyền cảm_hứng xem xong động_lực
+"Giao hàng trễ, hàng còn bị hỏng nữa!",negative,giao hàng trễ hàng còn hỏng nữa
+"Phim này nghe nói hay, để xem thử sao.",neutral,phim nghe nói hay để xem thử sao
+"Game này chiến thuật đỉnh, chơi cực kỳ đã!",positive,game chiến_thuật đỉnh chơi cực_kỳ
+"Dịch vụ hỗ trợ khách hàng tệ, không đáng tin!",negative,dịch_vụ hỗ_trợ khách_hàng tệ không đáng tin
+"Video này ngắn gọn, xem giải trí cũng ổn.",neutral,video ngắn_gọn xem giải_trí ổn
+"Nhạc acoustic này hay, nghe thư giãn ghê!",positive,nhạc acoustic hay nghe thư_giãn ghê
+"Hàng giao lâu, chất lượng thì quá kém!",negative,hàng giao lâu chất_lượng thì quá kém
+"App này mới nghe nói, để tải về xem.",neutral,app mới nghe nói để tải về xem
+"Clip kể chuyện ma ghê, xem mà lạnh sống lưng!",positive,clip kể chuyện ma ghê xem mà lạnh sống lưng
+"Phim này nhạt nhẽo, xem nửa đường bỏ luôn!",negative,phim nhạt nhẽo xem nửa đường bỏ luôn
+"Sản phẩm này giá rẻ, chưa rõ dùng tốt không.",neutral,sản_phẩm giá rẻ chưa rõ dùng tốt không
+"Game này căng thẳng, chơi mà hồi hộp lắm!",positive,game căng_thẳng chơi mà hồi_hộp lắm
+"Dịch vụ quảng cáo thì ngon, thực tế thì tệ!",negative,dịch_vụ quảng_cáo thì ngon thực_tế thì tệ
+"Nhạc này lạ lạ, chưa biết có hợp gu không.",neutral,nhạc lạ_lạ chưa biết hợp_gu không
+"Video này quay đẹp, xem đã mắt ghê!",positive,video quay đẹp xem mắt ghê
+"Hàng giao thiếu, shop không chịu giải quyết!",negative,hàng giao thiếu shop không chịu giải_quyết
+"Clip này nội dung mới, để xem hết thử.",neutral,clip nội_dung mới để xem hết thử
+"App này giao diện đẹp, dùng rất tiện lợi!",positive,app giao_diện đẹp dùng rất tiện_lợi
+"Phim này dở kinh khủng, phí thời gian xem!",negative,phim dở_kinh khủng_phí thời_gian xem
+"Game này bạn khen, để chơi thử xem sao.",neutral,game bạn khen để chơi thử xem sao
+"Nhạc live này đỉnh, nghe mà nổi da gà!",positive,nhạc live đỉnh nghe mà nổi da gà
+"Giao hàng chậm, còn giao nhầm hàng nữa!",negative,giao hàng chậm còn giao nhầm hàng nữa
+"Video này hơi buồn, chưa rõ có hay không.",neutral,video hơi buồn chưa rõ hay không
+"Sản phẩm này đáng giá, mua không hối hận!",positive,sản_phẩm đáng_giá mua không hối_hận
+"Dịch vụ hỗ trợ khách hàng tệ, không nhiệt tình!",negative,dịch_vụ hỗ_trợ khách_hàng tệ không nhiệt_tình
+"Phim này dài tập, để xem từ từ.",neutral,phim dài_tập để xem từ_từ
+"Clip này hài hước, xem cười đau cả ruột!",positive,clip hài_hước xem cười đau cả ruột
+"Hàng rẻ mà kém, mua về chỉ tổ vứt!",negative,hàng rẻ mà kém mua về chỉ tổ vứt
+"App này mới ra, chưa biết có tốt không.",neutral,app mới ra chưa biết tốt không
+"Game này cuốn hút, chơi quên cả thời gian!",positive,game cuốn_hút chơi quên cả thời_gian
+"Nhạc gì mà chán thế, nghe không vô!",negative,nhạc gì mà chán_thế nghe không vô
+"Video này hình đẹp, chưa rõ nội dung sao.",neutral,video hình_đẹp chưa rõ nội_dung sao
+"Phim này kịch bản hay, xem rất cuốn!",positive,phim kịch_bản hay xem rất cuốn
+"Dịch vụ giao hàng thiếu trách nhiệm, chán!",negative,dịch_vụ giao hàng thiếu trách_nhiệm chán
+"Sản phẩm này giá cao, để suy nghĩ thêm.",neutral,sản_phẩm giá cao để suy_nghĩ thêm
+"Clip này phân tích sâu, xem học được nhiều!",positive,clip phân_tích sâu xem học nhiều
+"Hàng giao trầy, shop không chịu đổi mới!",negative,hàng giao trầy shop không chịu đổi_mới
+"Game này mới lên kệ, chưa biết có hot không.",neutral,game mới lên kệ chưa biết hot không
+"Nhạc này nhẹ nhàng, nghe muốn thả hồn!",positive,nhạc nhẹ_nhàng nghe muốn thả hồn
+"App này lỗi liên tục, dùng mà tức điên!",negative,app lỗi liên_tục dùng mà tức điên
+"Video này ngắn gọn, xem thấy cũng ổn.",neutral,video ngắn_gọn xem thấy ổn
+"Phim hành động này đỉnh, xem mãn nhãn lắm!",positive,phim hành_động đỉnh xem mãn nhãn lắm
+"Dịch vụ giao hàng lằng nhằng, không đáng tin!",negative,dịch_vụ giao hàng lằng_nhằng không đáng tin
+"Sản phẩm này bạn gợi ý, để thử xem sao.",neutral,sản_phẩm bạn gợi_ý để thử xem sao
+"Clip này ý tưởng độc, xem thích mê!",positive,clip ý_tưởng độc xem thích mê
+"Hàng giao lâu, mở ra hỏng luôn!",negative,hàng giao_lâu mở ra hỏng luôn
+"Nhạc này mới lạ, chưa biết có thích không.",neutral,nhạc mới_lạ chưa biết thích không
+"Game nhập vai này hay, chơi cực kỳ cuốn!",positive,game nhập_vai hay chơi cực_kỳ cuốn
+"Dịch vụ quá tệ, không đáng để thử lần nữa!",negative,dịch_vụ quá tệ không đáng để thử lần nữa
+"Video này nội dung nhẹ, xem cho vui thôi.",neutral,video nội_dung nhẹ xem vui thôi
+"Phim này cảm xúc, xem mà rơi nước mắt!",positive,phim cảm_xúc xem mà rơi nước_mắt
+"Hàng gì mà kém thế, mua về tiếc đứt ruột!",negative,hàng gì mà kém thế mua về tiếc_đứt ruột
+"App này mới cài, chưa rõ có tốt không.",neutral,app mới cài chưa rõ tốt không
+"Clip reaction này vui, xem cười sảng khoái!",positive,clip reaction vui xem cười sảng_khoái
+"Giao hàng chậm, nhân viên còn thái độ tệ!",negative,giao hàng chậm nhân_viên còn thái_độ tệ
+"Game này đồ họa đẹp, để chơi thử xem.",neutral,game đồ họa đẹp để chơi thử xem
+"Nhạc EDM này sôi động, nghe muốn nhảy luôn!",positive,nhạc edm sôi_động nghe muốn nhảy luôn
+"Dịch vụ hỗ trợ khách hàng kém, không nhiệt tình!",negative,dịch_vụ hỗ_trợ khách_hàng kém không nhiệt_tình
+"Phim này dài, chưa biết có đáng xem không.",neutral,phim dài chưa biết đáng xem không
+"Video này sáng tạo, xem mà trầm trồ!",positive,video sáng_tạo xem mà trầm_trồ
+"Hàng giao sai, shop không chịu sửa lỗi!",negative,hàng giao sai shop không chịu sửa lỗi
+"Sản phẩm này giá rẻ, để mua thử xem.",neutral,sản_phẩm giá rẻ để mua thử xem
+"Game này kịch tính, chơi mà tim đập mạnh!",positive,game kịch tính_chơi mà tim đập mạnh
+"Nhạc gì mà chán ngắt, nghe phát buồn!",negative,nhạc gì mà chán_ngắt nghe phát buồn
+"Clip này nội dung lạ, xem thử cho biết.",neutral,clip nội_dung lạ xem thử biết
+"Phim này plot hay, xem xong bất ngờ!",positive,phim plot hay xem xong bất_ngờ
+"Dịch vụ giao hàng tệ, không đúng giờ!",negative,dịch_vụ giao hàng tệ không đúng giờ
+"App này nghe bảo tiện, để dùng thử xem.",neutral,app nghe bảo_tiện để dùng thử xem
+"Video du lịch này đẹp, xem muốn đi ngay!",positive,video du_lịch đẹp xem muốn đi ngay
+"Hàng kém bền, dùng vài hôm là hỏng!",negative,hàng kém bền dùng vài hôm hỏng
+"Nhạc này bình thường, chưa thấy gì đặc biệt.",neutral,nhạc bình_thường chưa thấy gì đặc_biệt
+"Game này hấp dẫn, chơi quên cả ăn uống!",positive,game hấp_dẫn chơi quên cả ăn_uống
+"Dịch vụ hỗ trợ chậm, thái độ không ra gì!",negative,dịch_vụ hỗ_trợ chậm thái_độ không ra gì
+"Phim này bạn khen, để xem thử sao.",neutral,phim bạn khen để xem thử sao
+"Clip này quay đẹp, nội dung lôi cuốn!",positive,clip quay đẹp nội_dung lôi_cuốn
+"Hàng giao trễ, còn bị bể nữa chứ!",negative,hàng giao_trễ còn bể nữa chứ
+"Sản phẩm này giá ổn, chưa rõ bền không.",neutral,sản_phẩm giá ổn chưa rõ bền không
+"Nhạc ballad này thấm, nghe mà xúc động!",positive,nhạc ballad thấm nghe mà xúc_động
+"Video review công nghệ này đỉnh, giải thích dễ hiểu!",positive,video review công_nghệ đỉnh giải_thích dễ hiểu
+"Món ăn này dở tệ, không nuốt nổi luôn!",negative,món ăn dở_tệ không nuốt nổi luôn
+"Áo này kiểu đẹp, chưa biết mặc lên sao.",neutral,áo kiểu đẹp chưa biết mặc lên sao
+"Clip du lịch này đẹp lung linh, xem muốn đi liền!",positive,clip du_lịch đẹp lung_linh xem muốn đi liền
+"Điện thoại này lỗi liên tục, mua về hối hận!",negative,điện_thoại lỗi liên_tục mua về hối_hận
+"Trận bóng này căng thẳng, chưa biết đội nào thắng.",neutral,trận bóng căng_thẳng chưa biết đội nào thắng
+"Công thức nấu ăn trong clip ngon, làm thử thành công!",positive,công_thức nấu_ăn trong clip ngon làm thử thành_công
+"Giày này xấu kinh khủng, không đáng giá tiền!",negative,giày xấu kinh_khủng không đáng_giá tiền
+"Khách sạn này nghe nói đẹp, để đặt thử xem.",neutral,khách_sạn nghe nói đẹp để đặt thử xem
+"App học ngoại ngữ này hay, tiến bộ rõ rệt!",positive,app học ngoại_ngữ hay tiến_bộ rõ_rệt
+"Món phở này nhạt nhẽo, thất vọng ghê!",negative,món phở nhạt_nhẽo thất_vọng ghê
+"Video tập gym này hơi khó, chưa biết có làm được không.",neutral,video tập gym hơi khó chưa biết làm không
+"Cảnh quay phim này đẹp mê hồn, xem đã mắt!",positive,cảnh quay_phim đẹp mê_hồn xem mắt
+"Dịch vụ sửa xe tệ, làm xong còn hỏng thêm!",negative,dịch_vụ sửa xe tệ làm xong còn hỏng thêm
+"Son này màu đẹp, chưa biết lên môi thế nào.",neutral,son màu đẹp chưa biết lên môi thế_nào
+"Clip hướng dẫn vẽ đỉnh, học được nhiều kỹ thuật!",positive,clip hướng_dẫn vẽ đỉnh_học nhiều kỹ_thuật
+"Đồ ăn giao trễ, nguội ngắt luôn!",negative,đồ_ăn giao_trễ nguội_ngắt luôn
+"Game bóng đá này mới ra, chưa biết có hay không.",neutral,game bóng_đá mới ra chưa biết hay không
+"Video nhạc này chill, nghe thư giãn ghê!",positive,video nhạc chill nghe thư_giãn ghê
+"Máy ảnh này chụp kém, phí tiền mua!",negative,máy_ảnh chụp kém phí tiền mua
+"Quán cà phê này nghe nói xinh, để ghé thử.",neutral,quán cà_phê nghe nói xinh để ghé thử
+"Clip làm đồ handmade này sáng tạo, thích quá!",positive,clip làm đồ handmade sáng_tạo thích quá
+"Thời trang ở shop này lỗi mốt, chán ghê!",negative,thời_trang ở shop lỗi mốt chán ghê
+"Tour du lịch này giá rẻ, chưa rõ chất lượng.",neutral,tour du_lịch giá rẻ chưa rõ chất_lượng
+"Trận đấu này kịch tính, xem mà hồi hộp!",positive,trận đấu kịch tính xem mà hồi_hộp
+"Dịch vụ spa này tệ, nhân viên không chuyên nghiệp!",negative,dịch_vụ spa tệ nhân_viên không chuyên_nghiệp
+"Món bánh này nhìn ngon, chưa biết vị ra sao.",neutral,món bánh nhìn ngon chưa biết vị ra sao
+"Video review sách này hay, muốn mua đọc liền!",positive,video review sách hay muốn mua đọc liền
+"Tai nghe này âm thanh dở, không đáng giá!",negative,tai nghe âm_thanh dở không đáng_giá
+"Khóa học online này nghe nói tốt, để đăng ký thử.",neutral,khóa học online nghe nói tốt để đăng_ký thử
+"Clip tập yoga này dễ làm, cơ thể nhẹ nhàng hơn!",positive,clip tập_yoga dễ làm cơ_thể nhẹ_nhàng hơn
+"Đồ uống này ngọt gắt, uống không nổi!",negative,đồ uống ngọt gắt uống không nổi
+"Đồng hồ này thiết kế đẹp, chưa biết bền không.",neutral,đồng_hồ thiết_kế đẹp chưa biết bền không
+"Video phỏng vấn này thú vị, nghe mà cuốn!",positive,video phỏng_vấn thú_vị nghe mà cuốn
+"Dịch vụ giặt ủi này chậm, làm mất thời gian!",negative,dịch_vụ giặt_ủi chậm làm mất thời_gian
+"Món sushi này giá cao, chưa biết có ngon không.",neutral,món sushi giá cao chưa biết ngon không
+"Game đua xe này đỉnh, chơi mà adrenaline tăng!",positive,game đua xe đỉnh chơi mà adrenaline tăng
+"Áo khoác này mỏng dính, không giữ ấm nổi!",negative,áo_khoác mỏng dính không giữ ấm nổi
+"Clip dạy chụp ảnh này hay, để thử áp dụng.",neutral,clip dạy chụp ảnh hay để thử áp_dụng
+"Nhạc cover này đỉnh, nghe muốn loop mãi!",positive,nhạc cover đỉnh nghe muốn loop mãi
+"Máy lọc không khí này ồn, dùng khó chịu!",negative,máy lọc không_khí ồn_dùng khó_chịu
+"Quán ăn này bạn khen, để ghé thử xem.",neutral,quán ăn bạn khen để ghé thử xem
+"Video khám phá thiên nhiên này đẹp, xem mê luôn!",positive,video khám_phá thiên_nhiên đẹp xem mê luôn
+"Dịch vụ thuê xe này tệ, xe cũ kỹ quá!",negative,dịch_vụ thuê xe tệ xe cũ_kỹ quá
+"Món trà sữa này nghe nói ngon, để thử xem.",neutral,món trà sữa nghe nói ngon để thử xem
+"Clip dạy nhảy này vui, tập theo thấy khỏe!",positive,clip dạy nhảy vui_tập theo thấy khỏe
+"Điện thoại này pin yếu, xài vài giờ là hết!",negative,điện_thoại pin yếu_xài vài giờ hết
+"Sách này bìa đẹp, chưa biết nội dung ra sao.",neutral,sách bìa đẹp chưa biết nội_dung ra sao
+"Trận bóng rổ này đỉnh, xem mà phấn khích!",positive,trận bóng_rổ đỉnh xem mà phấn_khích
+"Món chè này dở, không đúng vị truyền thống!",negative,món chè dở không đúng vị truyền_thống
+"Video review mỹ phẩm này chi tiết, để thử mua.",neutral,video review mỹ_phẩm chi_tiết để thử mua
+"Game phiêu lưu này hay, chơi quên cả thời gian!",positive,game phiêu_lưu hay chơi quên cả thời_gian
+"Dịch vụ cắt tóc này tệ, cắt xong xấu hơn!",negative,dịch_vụ cắt tóc tệ cắt xong xấu hơn
+"Địa điểm du lịch này nghe nói đẹp, để đi thử.",neutral,địa_điểm du_lịch nghe nói đẹp để đi thử
+"Clip dạy nấu phở này chuẩn, làm ra ngon tuyệt!",positive,clip dạy nấu phở chuẩn làm ra ngon tuyệt
+"Tai nghe này đứt dây nhanh, chất lượng kém!",negative,tai nghe đứt dây nhanh chất_lượng kém
+"Áo thun này giá rẻ, chưa biết mặc có đẹp không.",neutral,áo thun giá rẻ chưa biết mặc đẹp không
+"Video nhạc rap này đỉnh, flow quá chất!",positive,video nhạc rap đỉnh flow quá chất
+"Món pizza này nguội lạnh, giao hàng quá chậm!",negative,món pizza nguội lạnh giao hàng quá chậm
+"Khóa học này bạn recommend, để xem thử sao.",neutral,khóa học bạn recommend để xem thử sao
+"Clip review đồ chơi công nghệ này hay, muốn mua luôn!",positive,clip review đồ_chơi công_nghệ hay muốn mua luôn
+"Dịch vụ in ấn này tệ, màu in lem nhem!",negative,dịch_vụ in_ấn tệ màu in lem nhem
+"Món cơm này nhìn ngon, chưa biết vị thế nào.",neutral,món cơm nhìn ngon chưa biết vị_thế_nào
+"Game bắn súng này đỉnh, chơi mà hồi hộp!",positive,game bắn súng đỉnh chơi mà hồi_hộp
+"Son này màu xấu, lên môi không hợp!",negative,son màu xấu lên môi không hợp
+"Video dạy làm bánh này chi tiết, để thử làm.",neutral,video dạy làm bánh chi_tiết để thử làm
+"Nhạc acoustic này nhẹ nhàng, nghe thấm ghê!",positive,nhạc acoustic nhẹ_nhàng nghe thấm ghê
+"Máy giặt này hỏng nhanh, phí tiền mua!",negative,máy giặt hỏng nhanh_phí tiền mua
+"Quán này nghe nói đông, để ghé thử xem.",neutral,quán nghe nói đông để ghé thử xem
+"Clip review phim này cuốn, muốn xem ngay!",positive,clip review phim cuốn muốn xem ngay
+"Dịch vụ giao hoa này tệ, hoa héo hết!",negative,dịch_vụ giao hoa tệ hoa héo hết
+"Đồng hồ này kiểu đẹp, chưa biết chạy ổn không.",neutral,đồng_hồ kiểu đẹp chưa biết chạy ổn không
+"Game chiến thuật này hay, chơi cực kỳ cuốn!",positive,game chiến_thuật hay chơi cực_kỳ cuốn
+"Món ăn này dở ẹc, không đáng thử!",negative,món ăn dở_ẹc không đáng thử
+"Video dạy vẽ này bạn khen, để xem thử.",neutral,video dạy vẽ bạn khen để xem thử
+"Nhạc EDM này bùng nổ, nghe muốn quẩy luôn!",positive,nhạc edm bùng_nổ nghe muốn quẩy luôn
+"Điện thoại này nóng máy, dùng khó chịu!",negative,điện_thoại nóng máy dùng khó_chịu
+"Áo sơ mi này giá ổn, chưa biết chất vải sao.",neutral,áo sơ_mi giá ổn chưa biết chất vải sao
+"Clip du lịch biển này đẹp, xem muốn đi ngay!",positive,clip du_lịch biển đẹp xem muốn đi ngay
+"Dịch vụ sửa điện thoại này tệ, làm xong hỏng thêm!",negative,dịch_vụ sửa điện_thoại tệ làm xong hỏng thêm
+"Món tráng miệng này nhìn ngon, chưa biết vị.",neutral,món tráng miệng nhìn ngon chưa biết vị
+"Video review laptop này hay, muốn mua thử!",positive,video review laptop hay muốn mua thử
+"Giày này lỏng gót, đi không thoải mái!",negative,giày lỏng_gót đi không thoải_mái
+"Khách sạn này nghe nói xịn, để đặt thử.",neutral,khách_sạn nghe nói xịn để đặt thử
+"Game đua thuyền này đỉnh, chơi mà phấn khích!",positive,game đua thuyền đỉnh chơi mà phấn_khích
+"Món bún này nhạt, không đúng chuẩn!",negative,món bún nhạt không đúng chuẩn
+"Video dạy yoga này bạn recommend, để tập thử.",neutral,video dạy yoga bạn recommend để tập thử
+"Nhạc ballad này sâu lắng, nghe mà thấm!",positive,nhạc ballad sâu lắng_nghe mà thấm
+"Máy ảnh này chụp mờ, không đáng tiền!",negative,máy_ảnh chụp mờ không đáng tiền
+"Quán trà này nghe nói chill, để ghé xem.",neutral,quán trà nghe nói chill để ghé xem
+"Clip review tai nghe này chi tiết, muốn mua luôn!",positive,clip review tai nghe chi_tiết muốn mua luôn
+"Dịch vụ ship đồ này tệ, giao trễ liên tục!",negative,dịch_vụ ship_đồ tệ giao_trễ liên_tục
+"Món phở này giá cao, chưa biết ngon không.",neutral,món phở giá cao chưa biết ngon không
+"Game phiêu lưu này đỉnh, chơi quên cả giờ!",positive,game phiêu_lưu đỉnh chơi quên cả giờ
+"Son này khô môi, dùng không thích!",negative,son khô môi dùng không thích
+"Video dạy nấu ăn này hay, để thử làm.",neutral,video dạy nấu_ăn hay để thử làm
+"Nhạc live này đỉnh, nghe nổi da gà!",positive,nhạc live đỉnh nghe nổi da gà
+"Máy lọc nước này ồn, dùng khó chịu!",negative,máy lọc nước ồn_dùng khó_chịu
+"Áo khoác này kiểu đẹp, chưa biết ấm không.",neutral,áo_khoác kiểu đẹp chưa biết ấm không
+"Clip review game này cuốn, muốn chơi ngay!",positive,clip review game cuốn muốn chơi ngay
+"Video review điện thoại này đỉnh, muốn mua ngay!",positive,video review điện_thoại đỉnh muốn mua ngay
+"Món gà rán này dở, dầu mỡ kinh khủng!",negative,món gà rán dở_dầu mỡ kinh_khủng
+"Quần này kiểu đẹp, chưa biết mặc lên sao.",neutral,quần kiểu đẹp chưa biết mặc lên sao
+"Clip du lịch núi này đẹp, xem muốn đi khám phá!",positive,clip du_lịch núi đẹp xem muốn đi khám_phá
+"Laptop này lag liên tục, mua về thất vọng!",negative,laptop lag liên_tục mua về thất_vọng
+"Trận tennis này căng thẳng, chưa biết ai thắng.",neutral,trận tennis căng_thẳng chưa biết ai thắng
+"Công thức làm bánh trong clip ngon, làm ra tuyệt!",positive,công_thức làm bánh trong clip ngon làm ra tuyệt
+"Túi xách này xấu, không đáng đồng tiền!",negative,túi_xách xấu không đáng đồng_tiền
+"Resort này nghe nói sang, để đặt thử xem.",neutral,resort nghe nói sang để đặt thử xem
+"App học toán này hay, giải bài nhanh chóng!",positive,app học_toán hay giải bài nhanh_chóng
+"Món lẩu này nhạt, không đúng vị!",negative,món lẩu nhạt không đúng vị
+"Video tập thể dục này hơi khó, chưa biết làm được không.Concurrent",neutral,video tập_thể_dục hơi khó chưa biết làm khôngconcurrent
+"Phim tài liệu này hay, xem mở mang kiến thức!",positive,phim_tài_liệu hay xem mở_mang kiến_thức
+"Dịch vụ sửa laptop này tệ, làm xong hỏng thêm!",negative,dịch_vụ sửa_laptop tệ làm xong hỏng thêm
+"Kem này màu đẹp, chưa biết dùng có tốt không.",neutral,kem màu đẹp chưa biết dùng tốt không
+"Clip dạy hát này đỉnh, giọng hay hơn hẳn!",positive,clip dạy hát đỉnh giọng hay hơn hẳn
+"Đồ ăn giao trễ, lạnh ngắt luôn!",negative,đồ_ăn giao_trễ lạnh_ngắt luôn
+"Game đua xe này mới ra, chưa biết có hay không.",neutral,game đua xe mới ra chưa biết hay không
+"Video nhạc chill này đỉnh, nghe thư giãn lắm!",positive,video nhạc chill đỉnh nghe thư_giãn lắm
+"Loa này âm thanh rè, phí tiền mua!",negative,loa âm_thanh rè_phí tiền mua
+"Quán bar này nghe nói xịn, để ghé thử.",neutral,quán bar nghe nói xịn để ghé thử
+"Clip làm đồ thủ công này sáng tạo, thích ghê!",positive,clip làm đồ thủ_công sáng_tạo thích ghê
+"Áo len này mỏng, không ấm chút nào!",negative,áo len mỏng không ấm chút nào
+"Chuyến bay này giá rẻ, chưa rõ dịch vụ sao.",neutral,chuyến bay giá rẻ chưa rõ dịch_vụ sao
+"Trận bóng chuyền này đỉnh, xem mà phấn khích!",positive,trận bóng_chuyền đỉnh xem mà phấn_khích
+"Dịch vụ massage này tệ, nhân viên không nhiệt tình!",negative,dịch_vụ massage tệ nhân_viên không nhiệt_tình
+"Món mì này nhìn ngon, chưa biết vị ra sao.",neutral,món mì nhìn ngon chưa biết vị ra sao
+"Video review truyện này hay, muốn đọc ngay!",positive,video review_truyện hay muốn đọc ngay
+"Đồng hồ này chạy chậm, chất lượng kém!",negative,đồng_hồ chạy chậm chất_lượng kém
+"Khóa học lập trình này nghe nói tốt, để thử xem.",neutral,khóa học lập_trình nghe nói tốt để thử xem
+"Clip tập nhảy này vui, tập theo thấy khỏe!",positive,clip tập_nhảy vui_tập theo thấy khỏe
+"Món kem này ngọt quá, ăn không nổi!",negative,món kem ngọt quá ăn_không nổi
+"Giày này thiết kế đẹp, chưa biết đi có êm không.",neutral,giày thiết_kế đẹp chưa biết đi êm không
+"Video phỏng vấn ca sĩ này thú vị, nghe cuốn!",positive,video phỏng_vấn ca_sĩ thú_vị nghe cuốn
+"Dịch vụ giặt thảm này tệ, làm xong vẫn bẩn!",negative,dịch_vụ giặt_thảm tệ làm xong vẫn bẩn
+"Món bò này giá cao, chưa biết có ngon không.",neutral,món bò giá cao chưa biết ngon không
+"Game sinh tồn này đỉnh, chơi mà hồi hộp!",positive,game sinh_tồn đỉnh chơi mà hồi_hộp
+"Quần jeans này rách nhanh, không bền chút nào!",negative,quần_jeans rách nhanh không bền_chút nào
+"Clip dạy chụp ảnh này hay, để áp dụng thử.",neutral,clip dạy chụp ảnh hay để áp_dụng thử
+"Nhạc remix này đỉnh, nghe muốn nhảy luôn!",positive,nhạc remix đỉnh nghe muốn nhảy luôn
+"Máy hút bụi này yếu, không sạch nổi!",negative,máy hút_bụi yếu không sạch nổi
+"Quán phở này bạn khen, để ghé thử xem.",neutral,quán phở bạn khen để ghé thử xem
+"Video khám phá hang động này đẹp, xem mê mẩn!",positive,video khám_phá hang_động đẹp xem mê mẩn
+"Dịch vụ thuê đồ này tệ, đồ cũ kỹ quá!",negative,dịch_vụ thuê đồ tệ_đồ cũ_kỹ quá
+"Món cháo này nghe nói ngon, để thử xem.",neutral,món cháo nghe nói ngon để thử xem
+"Clip dạy múa này vui, tập theo thấy thích!",positive,clip dạy múa vui_tập theo thấy thích
+"Điện thoại này màn hình mờ, dùng khó chịu!",negative,điện_thoại màn_hình mờ dùng khó_chịu
+"Sách này bìa đẹp, chưa biết nội dung thế nào.",neutral,sách bìa đẹp chưa biết nội_dung thế_nào
+"Trận đấu võ này đỉnh, xem mà phấn khích!",positive,trận đấu võ đỉnh xem mà phấn_khích
+"Món canh này dở, không có vị gì!",negative,món canh dở không vị gì
+"Video review son này chi tiết, để thử mua.",neutral,video review_son chi_tiết để thử mua
+"Game phiêu lưu này hay, chơi quên cả giờ!",positive,game phiêu_lưu hay chơi quên cả giờ
+"Dịch vụ làm móng này tệ, làm xong xấu hơn!",negative,dịch_vụ làm móng tệ làm xong xấu hơn
+"Địa điểm cắm trại này nghe nói đẹp, để đi thử.",neutral,địa_điểm cắm trại nghe nói đẹp để đi thử
+"Clip dạy làm sushi này chuẩn, làm ra ngon lắm!",positive,clip dạy làm sushi chuẩn làm ra ngon lắm
+"Tai nghe này âm thanh nhỏ, chất lượng kém!",negative,tai nghe âm_thanh nhỏ chất_lượng kém
+"Váy này giá rẻ, chưa biết mặc có đẹp không.",neutral,váy giá rẻ chưa biết mặc đẹp không
+"Video nhạc rap này chất, flow quá đỉnh!",positive,video nhạc rap chất flow quá đỉnh
+"Món bún này nguội lạnh, giao hàng quá chậm!",negative,món bún nguội lạnh giao hàng quá chậm
+"Khóa học này bạn recommend, để xem thử sao.",neutral,khóa học bạn recommend để xem thử sao
+"Clip review máy ảnh này hay, muốn mua luôn!",positive,clip review máy_ảnh hay muốn mua luôn
+"Dịch vụ in áo này tệ, màu in phai nhanh!",negative,dịch_vụ in áo tệ màu in phai nhanh
+"Món cá này nhìn ngon, chưa biết vị thế nào.",neutral,món cá nhìn ngon chưa biết vị_thế_nào
+"Game bắn súng này đỉnh, chơi mà hồi hộp!",positive,game bắn súng đỉnh chơi mà hồi_hộp
+"Son này lên màu xấu, không hợp chút nào!",negative,son lên màu xấu không hợp_chút nào
+"Video dạy làm đồ uống này hay, để thử làm.",neutral,video dạy làm đồ uống hay để thử làm
+"Nhạc live này đỉnh, nghe nổi da gà luôn!",positive,nhạc live đỉnh nghe nổi da_gà luôn
+"Máy xay này hỏng nhanh, phí tiền mua!",negative,máy xay hỏng nhanh_phí tiền mua
+"Quán này nghe nói đông, để ghé thử xem.",neutral,quán nghe nói đông để ghé thử xem
+"Clip review phim này cuốn, muốn xem ngay!",positive,clip review phim cuốn muốn xem ngay
+"Dịch vụ giao đồ ăn này tệ, giao trễ liên tục!",negative,dịch_vụ giao đồ_ăn tệ giao_trễ liên_tục
+"Đồng hồ này kiểu đẹp, chưa biết chạy ổn không.",neutral,đồng_hồ kiểu đẹp chưa biết chạy ổn không
+"Game chiến thuật này hay, chơi cực kỳ cuốn!",positive,game chiến_thuật hay chơi cực_kỳ cuốn
+"Món soup này dở, không đáng thử!",negative,món soup dở không đáng thử
+"Video dạy vẽ này bạn khen, để xem thử.",neutral,video dạy vẽ bạn khen để xem thử
+"Nhạc EDM này bùng nổ, nghe muốn quẩy luôn!",positive,nhạc edm bùng_nổ nghe muốn quẩy luôn
+"Điện thoại này nóng máy, dùng khó chịu!",negative,điện_thoại nóng máy dùng khó_chịu
+"Áo sơ mi này giá ổn, chưa biết chất vải sao.",neutral,áo sơ_mi giá ổn chưa biết chất vải sao
+"Clip du lịch đảo này đẹp, xem muốn đi ngay!",positive,clip du_lịch đảo đẹp xem muốn đi ngay
+"Dịch vụ sửa máy tính này tệ, làm xong hỏng thêm!",negative,dịch_vụ sửa máy_tính tệ làm xong hỏng thêm
+"Món dessert này nhìn ngon, chưa biết vị.",neutral,món dessert nhìn ngon chưa biết vị
+"Video review loa này hay, muốn mua thử!",positive,video review_loa hay muốn mua thử
+"Giày này lỏng gót, đi không thoải mái!",negative,giày lỏng_gót đi không thoải_mái
+"Khách sạn này nghe nói xịn, để đặt thử.",neutral,khách_sạn nghe nói xịn để đặt thử
+"Game đua thuyền này đỉnh, chơi mà phấn khích!",positive,game đua thuyền đỉnh chơi mà phấn_khích
+"Món bún này nhạt, không đúng chuẩn!",negative,món bún nhạt không đúng chuẩn
+"Video dạy yoga này bạn recommend, để tập thử.",neutral,video dạy yoga bạn recommend để tập thử
+"Nhạc ballad này sâu lắng, nghe mà thấm!",positive,nhạc ballad sâu lắng_nghe mà thấm
+"Máy ảnh này chụp mờ, không đáng tiền!",negative,máy_ảnh chụp mờ không đáng tiền
+"Quán trà này nghe nói chill, để ghé xem.",neutral,quán trà nghe nói chill để ghé xem
+"Clip review tai nghe này chi tiết, muốn mua luôn!",positive,clip review tai nghe chi_tiết muốn mua luôn
+"Dịch vụ ship đồ này tệ, giao trễ liên tục!",negative,dịch_vụ ship_đồ tệ giao_trễ liên_tục
+"Món phở này giá cao, chưa biết ngon không.",neutral,món phở giá cao chưa biết ngon không
+"Game phiêu lưu này đỉnh, chơi quên cả giờ!",positive,game phiêu_lưu đỉnh chơi quên cả giờ
+"Son này khô môi, dùng không thích!",negative,son khô môi dùng không thích
+"Video dạy nấu ăn này hay, để thử làm.",neutral,video dạy nấu_ăn hay để thử làm
+"Nhạc live này đỉnh, nghe nổi da gà!",positive,nhạc live đỉnh nghe nổi da gà
+"Máy lọc nước này ồn, dùng khó chịu!",negative,máy lọc nước ồn_dùng khó_chịu
+"Áo khoác này kiểu đẹp, chưa biết ấm không.",neutral,áo_khoác kiểu đẹp chưa biết ấm không
+"Clip review game này cuốn, muốn chơi ngay!",positive,clip review game cuốn muốn chơi ngay
+"Video review smartwatch này hay, muốn sắm ngay!",positive,video review smartwatch hay muốn sắm ngay
+"Món bò kho này dở, thịt dai nhách!",negative,món bò kho dở_thịt dai_nhách
+"Balo này thiết kế đẹp, chưa biết đựng đồ sao.",neutral,balo thiết_kế đẹp chưa biết đựng đồ sao
+"Clip khám phá rừng này đẹp, xem muốn đi luôn!",positive,clip khám_phá rừng đẹp xem muốn đi luôn
+"Máy tính này treo liên tục, mua về bực mình!",negative,máy_tính treo liên_tục mua về bực_mình
+"Trận cầu lông này hấp dẫn, chưa rõ ai thắng.",neutral,trận cầu_lông hấp_dẫn chưa rõ ai thắng
+"Công thức pha cà phê trong clip ngon, thử làm đỉnh!",positive,công_thức pha cà_phê trong clip ngon thử làm đỉnh
+"Dép này lỏng chân, đi không chắc chắn!",negative,dép lỏng chân đi không chắc_chắn
+"Homestay này nghe nói xinh, để đặt thử xem.",neutral,homestay nghe nói xinh để đặt thử xem
+"App học tiếng Anh này đỉnh, phát âm chuẩn ghê!",positive,app học tiếng anh đỉnh phát_âm chuẩn ghê
+"Món bánh mì này khô khốc, thất vọng quá!",negative,món bánh_mì khô_khốc thất_vọng quá
+"Video hướng dẫn chạy bộ này hay, chưa biết áp dụng được không.",neutral,video hướng_dẫn chạy bộ hay chưa biết áp_dụng không
+"Phim khoa học này thú vị, xem mở rộng tầm mắt!",positive,phim khoa_học thú_vị xem mở_rộng tầm_mắt
+"Dịch vụ sửa ống nước này tệ, làm xong vẫn rò!",negative,dịch_vụ sửa ống nước tệ làm xong vẫn rò
+"Nước hoa này mùi lạ, chưa biết có thơm lâu không.",neutral,nước hoa mùi lạ chưa biết thơm lâu không
+"Clip dạy chơi guitar này đỉnh, học nhanh lên tay!",positive,clip dạy chơi guitar đỉnh học nhanh lên tay
+"Đồ ăn giao muộn, mở ra hỏng hết!",negative,đồ_ăn giao_muộn mở ra hỏng hết
+"Game đua ngựa này mới ra, chưa biết có cuốn không.",neutral,game đua ngựa mới ra chưa biết cuốn không
+"Video nhạc acoustic này nhẹ, nghe chill ghê!",positive,video nhạc acoustic nhẹ nghe chill ghê
+"Micro này thu âm rè, không đáng mua!",negative,micro thu âm_rè không đáng mua
+"Quán lẩu này nghe nói ngon, để ghé thử.",neutral,quán lẩu nghe nói ngon để ghé thử
+"Clip làm đồ tái chế này sáng tạo, thích quá!",positive,clip làm đồ tái_chế sáng_tạo thích quá
+"Khăn choàng này mỏng, không giữ ấm nổi!",negative,khăn choàng mỏng không giữ ấm nổi
+"Vé tàu này giá rẻ, chưa rõ dịch vụ thế nào.",neutral,vé tàu giá rẻ chưa rõ dịch_vụ thế_nào
+"Trận đua xe này đỉnh, xem mà phấn khích!",positive,trận đua xe đỉnh xem mà phấn_khích
+"Dịch vụ chăm sóc thú cưng này tệ, không tận tâm!",negative,dịch_vụ chăm_sóc thú_cưng tệ không tận_tâm
+"Món chả cá này nhìn hấp dẫn, chưa biết vị sao.",neutral,món chả cá nhìn hấp_dẫn chưa biết vị sao
+"Video review tiểu thuyết này cuốn, muốn đọc liền!",positive,video review tiểu_thuyết cuốn muốn đọc liền
+"Chuột máy tính này hỏng nhanh, kém chất lượng!",negative,chuột máy_tính hỏng nhanh kém chất_lượng
+"Khóa học thiết kế này nghe nói hay, để thử xem.",neutral,khóa học thiết_kế nghe nói hay để thử xem
+"Clip tập aerobic này vui, tập theo khỏe ra!",positive,clip tập aerobic vui_tập theo khỏe ra
+"Món sinh tố này nhạt, chẳng có vị gì!",negative,món sinh_tố nhạt chẳng vị gì
+"Mũ này kiểu đẹp, chưa biết đội có hợp không.",neutral,mũ kiểu đẹp chưa biết đội hợp không
+"Video trò chuyện với nghệ sĩ này thú vị, nghe mê!",positive,video trò_chuyện nghệ_sĩ thú_vị nghe mê
+"Dịch vụ vệ sinh nhà này tệ, làm xong vẫn bẩn!",negative,dịch_vụ vệ_sinh nhà tệ làm xong vẫn bẩn
+"Món gà này giá đắt, chưa biết có ngon không.",neutral,món gà giá đắt chưa biết ngon không
+"Game giải đố này đỉnh, chơi rèn trí não!",positive,game giải_đố đỉnh chơi rèn_trí não
+"Vớ này mỏng dính, đi vài hôm là rách!",negative,vớ mỏng dính đi vài hôm rách
+"Clip dạy làm đồ trang trí này hay, để thử làm.",neutral,clip dạy làm đồ trang_trí hay để thử làm
+"Nhạc pop này bắt tai, nghe muốn hát theo!",positive,nhạc pop bắt_tai nghe muốn hát theo
+"Máy in này kẹt giấy hoài, dùng bực mình!",negative,máy_in kẹt giấy hoài dùng bực_mình
+"Quán nướng này bạn khen, để ghé thử xem.",neutral,quán nướng bạn khen để ghé thử xem
+"Video khám phá sa mạc này đẹp, xem mê hồn!",positive,video khám_phá sa_mạc đẹp xem mê_hồn
+"Dịch vụ thuê váy này tệ, váy cũ rách!",negative,dịch_vụ thuê váy tệ_váy cũ rách
+"Món hủ tiếu này nghe nói ngon, để thử xem.",neutral,món hủ_tiếu nghe nói ngon để thử xem
+"Clip dạy khiêu vũ này vui, tập theo thích ghê!",positive,clip dạy khiêu_vũ vui_tập theo thích ghê
+"Máy sấy tóc này yếu, sấy mãi không khô!",negative,máy sấy_tóc yếu_sấy mãi không khô
+"Truyện này bìa đẹp, chưa biết nội dung ra sao.",neutral,truyện bìa đẹp chưa biết nội_dung ra sao
+"Trận đấu bóng bàn này đỉnh, xem mà hồi hộp!",positive,trận đấu bóng bàn đỉnh xem mà hồi_hộp
+"Món xôi này dở, không đúng vị truyền thống!",negative,món xôi dở không đúng vị truyền_thống
+"Video review nước hoa này chi tiết, để thử mua.",neutral,video review nước_hoa chi_tiết để thử mua
+"Game kinh dị này hay, chơi mà lạnh gáy!",positive,game kinh_dị hay chơi mà lạnh_gáy
+"Dịch vụ làm đẹp này tệ, làm xong xấu hơn!",negative,dịch_vụ làm_đẹp tệ làm xong xấu hơn
+"Chỗ trượt tuyết này nghe nói đẹp, để đi thử.",neutral,chỗ trượt_tuyết nghe nói đẹp để đi thử
+"Clip dạy làm mứt này chuẩn, làm ra ngon tuyệt!",positive,clip dạy làm mứt chuẩn làm ra ngon tuyệt
+"Loa bluetooth này pin yếu, dùng chẳng lâu!",negative,loa bluetooth pin_yếu dùng chẳng lâu
+"Áo mưa này giá rẻ, chưa biết chống thấm không.",neutral,áo_mưa giá rẻ chưa biết chống thấm không
+"Video nhạc rock này đỉnh, nghe bùng nổ!",positive,video nhạc_rock đỉnh nghe bùng_nổ
+"Món bánh cuốn này nguội, giao hàng quá chậm!",negative,món bánh_cuốn nguội giao hàng quá chậm
+"Khóa học này bạn gợi ý, để xem thử sao.",neutral,khóa học bạn gợi_ý để xem thử sao
+"Clip review bàn phím này hay, muốn mua luôn!",positive,clip review bàn_phím hay muốn mua luôn
+"Dịch vụ sơn nhà này tệ, sơn lem nhem!",negative,dịch_vụ sơn nhà tệ sơn lem_nhem
+"Món bạch tuộc này nhìn ngon, chưa biết vị.",neutral,món bạch_tuộc nhìn ngon chưa biết vị
+"Game thể thao này đỉnh, chơi mà phấn khích!",positive,game thể_thao đỉnh chơi mà phấn_khích
+"Kem chống nắng này dính, dùng không thích!",negative,kem chống nắng dính dùng không thích
+"Video dạy làm hoa giấy này hay, để thử làm.",neutral,video dạy làm hoa_giấy hay để thử làm
+"Nhạc jazz này đỉnh, nghe thư giãn ghê!",positive,nhạc jazz đỉnh nghe thư_giãn ghê
+"Máy pha cà phê này hỏng nhanh, phí tiền!",negative,máy pha cà_phê hỏng nhanh_phí tiền
+"Quán này nghe nói đông, để ghé thử xem.",neutral,quán nghe nói đông để ghé thử xem
+"Clip review series này cuốn, muốn xem ngay!",positive,clip review series cuốn muốn xem ngay
+"Dịch vụ giao quà này tệ, quà hỏng hết!",negative,dịch_vụ giao_quà tệ quà hỏng hết
+"Ví này kiểu đẹp, chưa biết bền không.",neutral,ví kiểu đẹp chưa biết bền không
+"Game đua mô tô này hay, chơi cực kỳ cuốn!",positive,game đua mô_tô hay chơi cực_kỳ cuốn
+"Món cơm tấm này dở, không đúng chuẩn!",negative,món cơm tấm dở không đúng chuẩn
+"Video dạy thêu này bạn khen, để xem thử.",neutral,video dạy thêu bạn khen để xem thử
+"Nhạc dance này sôi động, nghe muốn nhảy!",positive,nhạc dance sôi_động nghe muốn nhảy
+"Đèn ngủ này sáng yếu, không đáng mua!",negative,đèn ngủ sáng yếu không đáng mua
+"Áo dài này giá ổn, chưa biết may đẹp không.",neutral,áo_dài giá ổn chưa biết may đẹp không
+"Clip du lịch suối này đẹp, xem muốn đi liền!",positive,clip du_lịch suối đẹp xem muốn đi liền
+"Dịch vụ sửa đồ điện này tệ, làm xong hỏng thêm!",negative,dịch_vụ sửa đồ điện tệ làm xong hỏng thêm
+"Món nem này nhìn ngon, chưa biết vị sao.",neutral,món nem nhìn ngon chưa biết vị sao
+"Video review ghế gaming này hay, muốn mua thử!",positive,video review ghế gaming hay muốn mua thử
+"Thắt lưng này lỏng, dùng không chắc chắn!",negative,thắt_lưng lỏng dùng không chắc_chắn
+"Chỗ nghỉ dưỡng này nghe nói xịn, để đặt thử.",neutral,chỗ nghỉ_dưỡng nghe nói xịn để đặt thử
+"Game phi thuyền này đỉnh, chơi mà phấn khích!",positive,game phi_thuyền đỉnh chơi mà phấn_khích
+"Món bánh xèo này nhạt, không ngon chút nào!",negative,món bánh_xèo nhạt không ngon_chút nào
+"Video dạy tập gym này bạn recommend, để thử.",neutral,video dạy tập gym bạn recommend để thử
+"Nhạc cổ điển này hay, nghe thư thái ghê!",positive,nhạc cổ_điển hay nghe thư_thái ghê
+"Máy hút ẩm này yếu, không hiệu quả!",negative,máy hút ẩm yếu không hiệu_quả
+"Quán cà phê này nghe nói chill, để ghé xem.",neutral,quán cà_phê nghe nói chill để ghé xem
+"Clip review phụ kiện này chi tiết, muốn mua luôn!",positive,clip review phụ_kiện chi_tiết muốn mua luôn
+"Dịch vụ giao hàng này tệ, giao trễ liên tục!",negative,dịch_vụ giao hàng tệ giao_trễ liên_tục
+"Món bún bò này giá cao, chưa biết ngon không.",neutral,món bún_bò giá cao chưa biết ngon không
+"Game chiến đấu này đỉnh, chơi quên cả giờ!",positive,game chiến_đấu đỉnh chơi quên cả giờ
+"Mặt nạ này kích ứng, dùng không hợp!",negative,mặt_nạ kích_ứng dùng không hợp
+"Video dạy làm đồ gỗ này hay, để thử làm.",neutral,video dạy làm đồ gỗ hay để thử làm
+"Nhạc indie này đỉnh, nghe lạ mà cuốn!",positive,nhạc indie đỉnh nghe lạ mà cuốn
+"Máy lạnh này ồn, dùng khó chịu!",negative,máy_lạnh ồn_dùng khó_chịu
+"Túi đựng này kiểu đẹp, chưa biết bền không.",neutral,túi đựng kiểu đẹp chưa biết bền không
+"Clip review anime này cuốn, muốn xem ngay!",positive,clip review anime cuốn muốn xem ngay
+"Anh này giải toán giỏi thật, xem mà phục!",positive,anh giải_toán giỏi thật xem mà phục
+"Cô ấy hát tệ quá, nghe không nổi luôn!",negative,cô ấy hát_tệ quá nghe không nổi luôn
+"Bạn này vẽ khá ổn, nhưng chưa thực sự nổi bật.",neutral,bạn vẽ khá ổn nhưng chưa thực_sự nổi_bật
+"Chị ấy nấu ăn hay ghê, món nào cũng ngon!",positive,chị ấy nấu_ăn hay ghê món nào ngon
+"Thằng này đá bóng xấu kinh khủng, toàn sút hỏng!",negative,thằng đá bóng xấu kinh_khủng_toàn sút hỏng
+"Cậu ấy nhảy múa tốt, nhưng cần thêm cảm xúc.",neutral,cậu ấy nhảy_múa tốt nhưng cần thêm cảm_xúc
+"Ông này lập trình đỉnh cao, code mượt như nước!",positive,ông lập_trình đỉnh_cao code_mượt như nước
+"Bà này kể chuyện dở ẹc, nghe buồn ngủ!",negative,bà kể chuyện dở_ẹc nghe buồn ngủ
+"Anh ấy chụp ảnh khá tốt, nhưng ánh sáng chưa ổn.",neutral,anh ấy chụp ảnh khá tốt nhưng ánh_sáng chưa ổn
+"Cô này thiết kế giỏi, đồ họa đẹp mê ly!",positive,cô thiết_kế giỏi đồ_họa đẹp mê_ly
+"Hắn chơi game tệ hại, toàn thua từ đầu!",negative,hắn chơi game tệ_hại toàn_thua từ đầu
+"Chị ấy may vá hay, nhưng tốc độ hơi chậm.",neutral,chị ấy may_vá hay nhưng tốc_độ hơi chậm
+"Anh này thuyết trình đỉnh, nghe cuốn ghê!",positive,anh thuyết_trình đỉnh nghe cuốn ghê
+"Cô ấy làm đồ thủ công xấu, nhìn rối mắt!",negative,cô ấy làm đồ thủ_công xấu nhìn rối_mắt
+"Bạn này viết lách khá, nhưng cần sáng tạo hơn.",neutral,bạn viết_lách khá nhưng cần sáng_tạo hơn
+"Chú ấy sửa xe giỏi thật, nhanh mà chuẩn!",positive,chú ấy sửa xe giỏi thật nhanh mà chuẩn
+"Bà này dạy học tệ, giải thích chẳng hiểu gì!",negative,bà dạy_học tệ giải_thích chẳng hiểu gì
+"Cậu ấy hát tốt, nhưng chưa đủ cảm xúc.",neutral,cậu ấy hát tốt nhưng chưa đủ cảm_xúc
+"Chị này nhảy múa hay, xem mà muốn học theo!",positive,chị nhảy_múa hay xem mà muốn học theo
+"Anh này vẽ tranh dở, màu sắc lộn xộn!",negative,anh vẽ tranh_dở màu_sắc lộn_xộn
+"Cô ấy nấu ăn khá ổn, nhưng chưa đặc sắc.",neutral,cô ấy nấu_ăn khá ổn nhưng chưa đặc_sắc
+"Ông này chơi cờ giỏi, đánh đâu thắng đó!",positive,ông chơi cờ giỏi đánh đâu thắng đó
+"Bà ấy làm tóc xấu, cắt xong muốn khóc!",negative,bà ấy làm tóc xấu cắt xong muốn khóc
+"Bạn này kể chuyện tốt, nhưng giọng hơi đều.",neutral,bạn kể chuyện tốt nhưng giọng hơi đều
+"Anh ấy làm đồ gỗ hay, chi tiết quá đẹp!",positive,anh ấy làm đồ gỗ hay chi_tiết quá đẹp
+"Cô này chụp ảnh tệ, toàn mờ với lệch!",negative,cô chụp ảnh tệ toàn mờ lệch
+"Chị ấy viết nhạc khá, nhưng giai điệu chưa ấn tượng.",neutral,chị ấy viết nhạc khá nhưng giai_điệu chưa ấn_tượng
+"Cậu này đá bóng giỏi, kỹ thuật đỉnh cao!",positive,cậu đá bóng giỏi kỹ_thuật đỉnh_cao
+"Ông ấy sửa điện dở, làm xong vẫn hỏng!",negative,ông ấy sửa điện_dở làm xong vẫn hỏng
+"Bà này dạy nhảy tốt, nhưng hơi nghiêm khắc.",neutral,bà dạy nhảy tốt nhưng hơi nghiêm_khắc
+"Anh này làm phim đỉnh, cảnh quay mãn nhãn!",positive,anh làm phim đỉnh cảnh quay mãn nhãn
+"Cô ấy vẽ móng tay xấu, lem nhem hết!",negative,cô ấy vẽ móng tay xấu lem_nhem hết
+"Bạn này lập trình khá, nhưng code hơi dài dòng.",neutral,bạn lập_trình khá nhưng code_hơi dài dòng
+"Chị này hát hay, giọng cao vút luôn!",positive,chị hát hay giọng cao_vút luôn
+"Anh ấy nấu ăn tệ, món nào cũng mặn chát!",negative,anh ấy nấu_ăn tệ món nào mặn_chát
+"Cậu này chơi piano tốt, nhưng cần thêm cảm xúc.",neutral,cậu chơi piano tốt nhưng cần thêm cảm_xúc
+"Ông này thiết kế nội thất giỏi, đẹp không tì vết!",positive,ông thiết_kế nội_thất giỏi đẹp không tì vết
+"Bà ấy may quần áo dở, đường chỉ lệch lung tung!",negative,bà ấy may quần_áo dở_đường chỉ lệch lung_tung
+"Chị này kể chuyện khá, nhưng chưa đủ cuốn hút.",neutral,chị kể chuyện khá nhưng chưa đủ cuốn_hút
+"Anh ấy chơi game hay, rank cao ngất ngưởng!",positive,anh ấy chơi game hay rank cao ngất_ngưởng
+"Cô này làm bánh tệ, cháy đen thui!",negative,cô làm bánh_tệ cháy đen_thui
+"Bạn này chụp ảnh tốt, nhưng góc hơi đơn điệu.",neutral,bạn chụp ảnh tốt nhưng góc hơi đơn_điệu
+"Chú ấy làm vườn giỏi, cây nào cũng xanh mướt!",positive,chú ấy làm_vườn giỏi cây nào xanh mướt
+"Bà này dạy yoga xấu, động tác không chuẩn!",negative,bà dạy yoga xấu động_tác không chuẩn
+"Anh này viết truyện khá, nhưng kết hơi hụt hẫng.",neutral,anh viết truyện khá nhưng kết_hơi hụt hẫng
+"Cô ấy múa ballet hay, động tác mềm mại ghê!",positive,cô ấy múa_ballet hay động_tác mềm_mại ghê
+"Anh này sửa máy tính tệ, làm xong còn lag hơn!",negative,anh sửa máy_tính tệ làm xong còn lag hơn
+"Chị này làm đồ handmade tốt, nhưng hơi chậm.",neutral,chị làm đồ handmade tốt nhưng hơi chậm
+"Cậu này đá cầu giỏi, kỹ thuật siêu đỉnh!",positive,cậu đá cầu giỏi kỹ_thuật siêu_đỉnh
+"Bà ấy pha trà dở, đắng nghét luôn!",negative,bà ấy pha trà dở đắng_nghét luôn
+"Anh này vẽ graffiti khá, nhưng màu chưa hài hòa.",neutral,anh vẽ graffiti khá nhưng màu chưa hài_hòa
+"Chị ấy làm video đỉnh, dựng phim quá chất!",positive,chị ấy làm video đỉnh dựng phim quá chất
+"Cô này dạy nấu ăn tệ, hướng dẫn rối rắm!",negative,cô dạy nấu_ăn_tệ hướng_dẫn rối_rắm
+"Bạn này chơi violin tốt, nhưng cần thêm hồn.",neutral,bạn chơi violin tốt nhưng cần thêm hồn
+"Ông này làm đồ da hay, sản phẩm đẹp lung linh!",positive,ông làm đồ da hay sản_phẩm đẹp lung_linh
+"Bà ấy chụp ảnh xấu, toàn out nét!",negative,bà ấy chụp ảnh xấu toàn out nét
+"Anh này viết code khá, nhưng cần tối ưu hơn.",neutral,anh viết code khá nhưng cần tối_ưu hơn
+"Cô ấy nhảy hip-hop giỏi, phong cách đỉnh cao!",positive,cô ấy nhảy hiphop giỏi phong_cách đỉnh_cao
+"Chú này làm mộc tệ, bàn ghế lung lay hết!",negative,chú làm mộc_tệ bàn_ghế lung_lay hết
+"Chị này dạy tiếng Anh tốt, nhưng hơi nhanh.",neutral,chị dạy tiếng anh tốt nhưng hơi nhanh
+"Anh ấy làm ảo thuật hay, xem mà ngỡ ngàng!",positive,anh ấy làm ảo_thuật hay xem mà ngỡ_ngàng
+"Cô này vẽ chân dung dở, không giống người thật!",negative,cô vẽ chân_dung dở không giống người thật
+"Bạn này làm đồ gốm khá, nhưng chưa đều tay.",neutral,bạn làm đồ gốm khá nhưng chưa đều tay
+"Ông này chơi bóng rổ giỏi, cú ném quá chuẩn!",positive,ông chơi bóng_rổ giỏi cú ném quá chuẩn
+"Bà ấy làm bánh mì tệ, khô như đá!",negative,bà ấy làm bánh_mì tệ khô như đá
+"Anh này kể chuyện kinh dị tốt, nhưng giọng hơi nhỏ.",neutral,anh kể chuyện kinh_dị tốt nhưng giọng hơi nhỏ
+"Chị ấy làm đồ trang sức đỉnh, tinh xảo ghê!",positive,chị ấy làm đồ trang_sức đỉnh tinh_xảo ghê
+"Cô này dạy múa xấu, động tác cứng nhắc!",negative,cô dạy múa xấu_động_tác cứng_nhắc
+"Cậu này chơi trống khá, nhưng nhịp hơi lệch.",neutral,cậu chơi trống khá nhưng nhịp hơi lệch
+"Anh ấy làm phim hoạt hình hay, sáng tạo ghê!",positive,anh ấy làm phim_hoạt_hình hay sáng_tạo ghê
+"Bà này pha cà phê tệ, nhạt như nước lã!",negative,bà pha cà_phê tệ_nhạt như nước_lã
+"Chị này làm nail tốt, nhưng màu hơi đơn điệu.",neutral,chị làm nail tốt nhưng màu hơi đơn_điệu
+"Cậu này chơi bóng chuyền giỏi, phát bóng siêu mạnh!",positive,cậu chơi bóng_chuyền giỏi phát_bóng siêu mạnh
+"Anh ấy vẽ tranh sơn dầu dở, màu loang lổ!",negative,anh ấy vẽ tranh_sơn dầu dở_màu loang_lổ
+"Cô này dạy yoga khá, nhưng cần thêm năng lượng.",neutral,cô dạy yoga khá nhưng cần thêm năng_lượng
+"Ông này làm đồ điện đỉnh, sửa nhanh gọn!",positive,ông làm đồ điện_đỉnh sửa nhanh gọn
+"Bà ấy làm đồ ăn vặt tệ, dầu cũ kinh khủng!",negative,bà ấy làm đồ_ăn vặt_tệ dầu cũ kinh_khủng
+"Anh này viết blog tốt, nhưng cần thêm hình ảnh.",neutral,anh viết blog tốt nhưng cần thêm hình_ảnh
+"Chị ấy múa đương đại hay, cảm xúc dạt dào!",positive,chị ấy múa đương_đại hay cảm_xúc dạt_dào
+"Cô này làm tóc xấu, nhuộm hỏng luôn!",negative,cô làm tóc xấu nhuộm hỏng luôn
+"Bạn này chơi saxophone khá, nhưng hơi thiếu hơi.",neutral,bạn chơi saxophone khá nhưng hơi thiếu hơi
+"Anh ấy làm đồ chơi gỗ giỏi, chi tiết quá đẹp!",positive,anh ấy làm đồ_chơi gỗ giỏi chi_tiết quá đẹp
+"Bà này dạy vẽ tệ, hướng dẫn chẳng rõ ràng!",negative,bà dạy vẽ tệ hướng_dẫn chẳng rõ_ràng
+"Cậu này làm đồ tái chế tốt, nhưng hơi thô.",neutral,cậu làm đồ tái_chế tốt nhưng hơi thô
+"Chị ấy hát opera đỉnh, giọng vang kinh khủng!",positive,chị ấy hát opera đỉnh giọng vang kinh_khủng
+"Anh này làm bánh ngọt dở, ngọt gắt luôn!",negative,anh làm bánh ngọt dở_ngọt gắt luôn
+"Cô này dạy nhảy khá, nhưng cần thêm sáng tạo.",neutral,cô dạy nhảy khá nhưng cần thêm sáng_tạo
+"Ông này chơi cờ vua giỏi, tính nước đi siêu!",positive,ông chơi cờ vua giỏi_tính nước đi siêu
+"Bà ấy làm đồ chay tệ, không có vị gì!",negative,bà ấy làm đồ chay_tệ không vị gì
+"Anh này làm video reaction tốt, nhưng hơi dài.",neutral,anh làm video reaction tốt nhưng hơi dài
+"Chị ấy vẽ tranh thủy mặc hay, đẹp mê hồn!",positive,chị ấy vẽ tranh_thủy mặc hay đẹp mê_hồn
+"Cô này làm đồ uống xấu, pha chế lung tung!",negative,cô làm đồ uống xấu pha_chế lung_tung
+"Bạn này chơi guitar khá, nhưng cần thêm cảm xúc.",neutral,bạn chơi guitar khá nhưng cần thêm cảm_xúc
+"Anh ấy làm đồ nội thất đỉnh, chắc chắn ghê!",positive,anh ấy làm đồ nội_thất_đỉnh chắc_chắn ghê
+"Bà này dạy nấu ăn tệ, món nào cũng thất bại!",negative,bà dạy nấu_ăn tệ món nào thất_bại
+"Cậu này làm đồ thủ công tốt, nhưng hơi chậm.",neutral,cậu làm đồ thủ_công tốt nhưng hơi chậm
+"Chị ấy hát rap giỏi, flow quá chất!",positive,chị ấy hát rap giỏi flow quá chất
+"Anh này làm đồ điện tử dở, hỏng ngay ngày đầu!",negative,anh làm đồ_điện_tử dở_hỏng ngay ngày đầu
+"Cô này dạy aerobic khá, nhưng động tác hơi khó.",neutral,cô dạy aerobic khá nhưng động_tác hơi khó
+"Ông này làm đồ trang trí đỉnh, sáng tạo ghê!",positive,ông làm đồ trang_trí đỉnh sáng_tạo ghê
